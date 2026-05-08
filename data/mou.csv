@@ -1,0 +1,1001 @@
+id,organization,country,signed_year,sector
+1,HealthPlus,UK,2021,Energy
+2,DataVision,Canada,2018,Cybersecurity
+3,AeroTech,South Korea,2022,Cybersecurity
+4,National Science Institute,France,2010,Healthcare
+5,EduSmart,Singapore,2025,Biotechnology
+6,Quantum Analytics,South Korea,2015,Education
+7,AgroFuture,Spain,2021,Environment
+8,AeroTech,Australia,2018,Healthcare
+9,DataVision,Germany,2019,Transport
+10,TechNova,Russia,2011,Energy
+11,Global Research Center,Thailand,2016,Space Research
+12,AgroFuture,India,2017,Education
+13,National Science Institute,Canada,2018,Cybersecurity
+14,National Science Institute,Italy,2010,Healthcare
+15,AgroFuture,USA,2025,Healthcare
+16,Oceanic Research,Japan,2015,Agriculture
+17,Quantum Analytics,USA,2017,Technology
+18,Future Systems,Malaysia,2019,Environment
+19,DataVision,China,2023,Energy
+20,Oceanic Research,Russia,2021,Transport
+21,HealthPlus,China,2016,Cybersecurity
+22,HealthPlus,Brazil,2022,Infrastructure
+23,Quantum Analytics,France,2010,Technology
+24,InnoSoft,Singapore,2019,Agriculture
+25,Future Systems,France,2025,Transport
+26,BioGen Labs,UAE,2018,Environment
+27,National Science Institute,UAE,2018,Technology
+28,Future Systems,Brazil,2016,AI & ML
+29,Global Research Center,Netherlands,2017,Education
+30,Oceanic Research,UK,2022,Education
+31,National Science Institute,UAE,2014,Environment
+32,DataVision,USA,2025,Cybersecurity
+33,Future Systems,China,2023,AI & ML
+34,Green Energy Corp,Russia,2011,Transport
+35,Quantum Analytics,Thailand,2016,Transport
+36,AeroTech,India,2025,Cybersecurity
+37,Oceanic Research,Singapore,2019,Healthcare
+38,AgroFuture,Australia,2015,Education
+39,Future Systems,France,2025,Infrastructure
+40,Global Research Center,China,2015,Environment
+41,National Science Institute,UAE,2012,Energy
+42,EduSmart,Singapore,2017,Environment
+43,DataVision,Brazil,2023,Cybersecurity
+44,Skyline Tech,UAE,2021,Infrastructure
+45,Future Systems,Thailand,2019,Agriculture
+46,HealthPlus,France,2025,Environment
+47,TechNova,Thailand,2012,Healthcare
+48,HealthPlus,Canada,2013,Healthcare
+49,AgroFuture,Russia,2019,Education
+50,Green Energy Corp,UK,2014,Biotechnology
+51,Global Research Center,Canada,2020,Transport
+52,Green Energy Corp,Thailand,2024,Education
+53,Global Research Center,UAE,2015,Energy
+54,Skyline Tech,Germany,2025,Energy
+55,AeroTech,Australia,2020,Environment
+56,National Science Institute,UK,2010,Energy
+57,HealthPlus,China,2016,Infrastructure
+58,Skyline Tech,Australia,2015,Energy
+59,HealthPlus,Germany,2014,Infrastructure
+60,Quantum Analytics,Italy,2023,Biotechnology
+61,Green Energy Corp,Italy,2025,Education
+62,Green Energy Corp,USA,2011,Technology
+63,InnoSoft,Canada,2021,Biotechnology
+64,TechNova,UAE,2016,Technology
+65,TechNova,USA,2017,Education
+66,EduSmart,Singapore,2019,Energy
+67,Global Research Center,France,2022,Healthcare
+68,InnoSoft,Thailand,2019,Infrastructure
+69,Global Research Center,Germany,2011,Biotechnology
+70,Future Systems,Brazil,2024,AI & ML
+71,DataVision,Netherlands,2020,Transport
+72,Green Energy Corp,Japan,2020,Space Research
+73,Oceanic Research,Spain,2021,Transport
+74,Skyline Tech,Canada,2015,Energy
+75,Oceanic Research,Russia,2010,Healthcare
+76,EduSmart,India,2014,Infrastructure
+77,EduSmart,USA,2015,Education
+78,BioGen Labs,Singapore,2011,Agriculture
+79,Green Energy Corp,China,2011,Transport
+80,Quantum Analytics,UK,2013,Environment
+81,National Science Institute,USA,2011,Infrastructure
+82,DataVision,France,2023,Cybersecurity
+83,HealthPlus,Russia,2013,Infrastructure
+84,InnoSoft,China,2025,AI & ML
+85,DataVision,Japan,2016,Biotechnology
+86,DataVision,USA,2019,Biotechnology
+87,Green Energy Corp,France,2018,Cybersecurity
+88,Quantum Analytics,Malaysia,2014,AI & ML
+89,Green Energy Corp,France,2013,Healthcare
+90,Future Systems,France,2013,Cybersecurity
+91,HealthPlus,Canada,2016,Transport
+92,Skyline Tech,China,2016,Energy
+93,AeroTech,Italy,2019,Environment
+94,Global Research Center,UK,2025,Transport
+95,Oceanic Research,Canada,2025,Agriculture
+96,AeroTech,India,2010,Agriculture
+97,TechNova,Germany,2013,Infrastructure
+98,AgroFuture,Thailand,2025,Space Research
+99,Global Research Center,Germany,2012,Space Research
+100,DataVision,France,2018,Biotechnology
+101,National Science Institute,India,2024,Education
+102,Future Systems,China,2024,Education
+103,TechNova,France,2015,Education
+104,AgroFuture,UK,2019,Education
+105,AeroTech,UAE,2023,Energy
+106,DataVision,France,2013,Agriculture
+107,AgroFuture,UK,2010,Technology
+108,AgroFuture,Japan,2015,Environment
+109,AeroTech,Singapore,2024,Education
+110,Quantum Analytics,China,2012,Cybersecurity
+111,AeroTech,UAE,2015,Infrastructure
+112,BioGen Labs,Russia,2022,Cybersecurity
+113,HealthPlus,China,2022,Environment
+114,DataVision,Spain,2023,Agriculture
+115,National Science Institute,Australia,2013,Environment
+116,Global Research Center,UK,2015,Healthcare
+117,BioGen Labs,Italy,2025,Environment
+118,Skyline Tech,Thailand,2024,Transport
+119,Global Research Center,Malaysia,2022,Technology
+120,Skyline Tech,Singapore,2010,Education
+121,AgroFuture,Japan,2025,Technology
+122,Oceanic Research,Spain,2013,Technology
+123,Oceanic Research,Italy,2024,Healthcare
+124,TechNova,Germany,2018,Infrastructure
+125,National Science Institute,UAE,2010,Space Research
+126,DataVision,Netherlands,2017,AI & ML
+127,National Science Institute,UAE,2013,Infrastructure
+128,Green Energy Corp,India,2025,Space Research
+129,AeroTech,Russia,2014,Transport
+130,AgroFuture,South Africa,2011,Biotechnology
+131,TechNova,Australia,2025,Environment
+132,AgroFuture,Spain,2015,Environment
+133,BioGen Labs,Spain,2020,Space Research
+134,EduSmart,UAE,2018,AI & ML
+135,TechNova,Netherlands,2017,Education
+136,InnoSoft,Russia,2022,Cybersecurity
+137,AgroFuture,India,2012,Energy
+138,HealthPlus,South Korea,2024,Education
+139,BioGen Labs,Spain,2024,Cybersecurity
+140,AeroTech,France,2025,Energy
+141,DataVision,USA,2013,Biotechnology
+142,Green Energy Corp,Italy,2011,Infrastructure
+143,InnoSoft,South Africa,2010,AI & ML
+144,AgroFuture,Germany,2019,Healthcare
+145,Oceanic Research,Netherlands,2016,Agriculture
+146,National Science Institute,South Korea,2020,Energy
+147,AeroTech,UK,2017,Environment
+148,AgroFuture,South Korea,2020,Transport
+149,InnoSoft,Malaysia,2025,Biotechnology
+150,DataVision,Singapore,2024,Agriculture
+151,BioGen Labs,France,2017,Education
+152,TechNova,UAE,2021,AI & ML
+153,AgroFuture,Brazil,2021,Space Research
+154,DataVision,France,2011,Technology
+155,Oceanic Research,Australia,2025,Agriculture
+156,Global Research Center,Italy,2013,Agriculture
+157,Future Systems,Malaysia,2016,Space Research
+158,EduSmart,France,2022,Healthcare
+159,EduSmart,South Korea,2016,Cybersecurity
+160,DataVision,UAE,2013,Cybersecurity
+161,Skyline Tech,Italy,2011,Environment
+162,Oceanic Research,Thailand,2013,Agriculture
+163,Skyline Tech,South Korea,2024,Transport
+164,National Science Institute,Thailand,2014,Biotechnology
+165,HealthPlus,USA,2011,Cybersecurity
+166,InnoSoft,Italy,2025,Space Research
+167,Oceanic Research,Netherlands,2015,Technology
+168,DataVision,Thailand,2015,Infrastructure
+169,DataVision,Japan,2013,Technology
+170,Green Energy Corp,Malaysia,2020,AI & ML
+171,InnoSoft,Russia,2023,Agriculture
+172,Quantum Analytics,India,2018,Space Research
+173,Green Energy Corp,UAE,2019,Education
+174,HealthPlus,Japan,2014,Infrastructure
+175,Green Energy Corp,Malaysia,2019,Transport
+176,AgroFuture,South Africa,2020,Biotechnology
+177,DataVision,South Africa,2016,Technology
+178,EduSmart,Canada,2019,Environment
+179,National Science Institute,Singapore,2014,Education
+180,DataVision,Australia,2020,Energy
+181,DataVision,France,2021,Transport
+182,InnoSoft,Spain,2023,Space Research
+183,National Science Institute,South Africa,2019,Education
+184,Oceanic Research,Italy,2010,Environment
+185,InnoSoft,France,2010,Infrastructure
+186,Green Energy Corp,Japan,2011,Space Research
+187,National Science Institute,UK,2016,Agriculture
+188,Future Systems,Australia,2019,Technology
+189,National Science Institute,China,2014,Technology
+190,AgroFuture,UK,2019,AI & ML
+191,EduSmart,South Africa,2011,Environment
+192,AeroTech,South Korea,2013,Education
+193,Quantum Analytics,South Africa,2017,Biotechnology
+194,DataVision,South Africa,2022,Agriculture
+195,EduSmart,Netherlands,2019,Cybersecurity
+196,DataVision,UK,2022,Education
+197,Green Energy Corp,Italy,2020,Technology
+198,InnoSoft,UK,2010,Technology
+199,DataVision,China,2016,Infrastructure
+200,Quantum Analytics,South Korea,2017,Transport
+201,Oceanic Research,Singapore,2016,Education
+202,Skyline Tech,Canada,2019,Healthcare
+203,HealthPlus,Australia,2012,Energy
+204,Global Research Center,Australia,2013,Space Research
+205,Green Energy Corp,UK,2023,Space Research
+206,Future Systems,South Africa,2018,Biotechnology
+207,Global Research Center,Australia,2018,Education
+208,TechNova,UAE,2024,AI & ML
+209,DataVision,Japan,2011,AI & ML
+210,Global Research Center,UAE,2011,Environment
+211,Skyline Tech,Malaysia,2019,Environment
+212,HealthPlus,Thailand,2021,Transport
+213,BioGen Labs,UAE,2017,Environment
+214,Global Research Center,Netherlands,2012,Environment
+215,Skyline Tech,Netherlands,2015,Energy
+216,Green Energy Corp,South Africa,2022,AI & ML
+217,BioGen Labs,Singapore,2017,Environment
+218,Oceanic Research,Canada,2020,Cybersecurity
+219,AeroTech,Singapore,2019,AI & ML
+220,EduSmart,Malaysia,2025,Cybersecurity
+221,InnoSoft,USA,2013,AI & ML
+222,National Science Institute,Singapore,2024,Transport
+223,EduSmart,Malaysia,2017,Energy
+224,TechNova,UAE,2022,AI & ML
+225,Oceanic Research,France,2022,Transport
+226,Future Systems,South Africa,2019,Transport
+227,TechNova,Netherlands,2021,Cybersecurity
+228,InnoSoft,Netherlands,2024,Cybersecurity
+229,HealthPlus,UK,2019,Agriculture
+230,Oceanic Research,Canada,2020,Education
+231,InnoSoft,Germany,2013,Energy
+232,Global Research Center,South Africa,2010,Transport
+233,National Science Institute,Germany,2016,Cybersecurity
+234,National Science Institute,Canada,2023,Biotechnology
+235,AgroFuture,France,2016,Biotechnology
+236,InnoSoft,Italy,2012,Space Research
+237,DataVision,Japan,2010,Agriculture
+238,HealthPlus,UAE,2011,Agriculture
+239,BioGen Labs,Germany,2011,Space Research
+240,Global Research Center,China,2012,Healthcare
+241,Quantum Analytics,India,2018,Environment
+242,Green Energy Corp,Russia,2024,Environment
+243,National Science Institute,Russia,2023,Space Research
+244,AeroTech,USA,2022,AI & ML
+245,National Science Institute,France,2010,AI & ML
+246,National Science Institute,Malaysia,2012,Cybersecurity
+247,Skyline Tech,Thailand,2011,Cybersecurity
+248,DataVision,Germany,2021,Environment
+249,Oceanic Research,Netherlands,2013,Healthcare
+250,Future Systems,Brazil,2012,Biotechnology
+251,Future Systems,South Korea,2022,Infrastructure
+252,Green Energy Corp,USA,2025,Healthcare
+253,Global Research Center,South Africa,2017,Infrastructure
+254,Global Research Center,Russia,2019,Cybersecurity
+255,National Science Institute,Japan,2019,AI & ML
+256,National Science Institute,Singapore,2010,Infrastructure
+257,InnoSoft,South Africa,2014,Energy
+258,BioGen Labs,UK,2010,Biotechnology
+259,Quantum Analytics,Malaysia,2022,Education
+260,InnoSoft,South Africa,2012,Space Research
+261,Future Systems,Canada,2021,Cybersecurity
+262,EduSmart,Italy,2014,AI & ML
+263,Global Research Center,Australia,2017,Environment
+264,Quantum Analytics,China,2016,AI & ML
+265,BioGen Labs,Australia,2011,Biotechnology
+266,AgroFuture,South Africa,2024,Transport
+267,National Science Institute,South Africa,2012,Space Research
+268,Future Systems,Germany,2018,Agriculture
+269,BioGen Labs,Canada,2025,Environment
+270,AeroTech,Singapore,2014,Agriculture
+271,National Science Institute,India,2013,Biotechnology
+272,Future Systems,Malaysia,2012,Transport
+273,Oceanic Research,Canada,2020,Biotechnology
+274,HealthPlus,South Korea,2020,Biotechnology
+275,Quantum Analytics,Brazil,2014,Energy
+276,Quantum Analytics,Thailand,2021,Agriculture
+277,Skyline Tech,UAE,2023,Cybersecurity
+278,Global Research Center,USA,2020,AI & ML
+279,EduSmart,India,2023,Space Research
+280,Future Systems,Singapore,2014,Space Research
+281,National Science Institute,UAE,2025,Transport
+282,HealthPlus,South Korea,2021,Environment
+283,Skyline Tech,Brazil,2025,Environment
+284,InnoSoft,France,2015,Biotechnology
+285,National Science Institute,Malaysia,2012,Cybersecurity
+286,AgroFuture,China,2014,Infrastructure
+287,Oceanic Research,South Africa,2016,Technology
+288,Future Systems,Germany,2012,Infrastructure
+289,Oceanic Research,USA,2010,AI & ML
+290,AgroFuture,Thailand,2022,Technology
+291,Skyline Tech,Thailand,2016,Energy
+292,Oceanic Research,UK,2018,Technology
+293,InnoSoft,South Africa,2025,Agriculture
+294,National Science Institute,Japan,2021,AI & ML
+295,Green Energy Corp,India,2019,Energy
+296,Global Research Center,South Korea,2012,Healthcare
+297,Green Energy Corp,Singapore,2010,Space Research
+298,National Science Institute,India,2015,Transport
+299,Skyline Tech,Netherlands,2014,Education
+300,HealthPlus,Australia,2015,Education
+301,Quantum Analytics,Thailand,2014,Cybersecurity
+302,DataVision,Spain,2021,Technology
+303,TechNova,India,2025,Transport
+304,EduSmart,Germany,2018,Cybersecurity
+305,AeroTech,India,2011,Environment
+306,National Science Institute,Canada,2021,Education
+307,Green Energy Corp,Spain,2024,Transport
+308,Oceanic Research,UK,2011,Energy
+309,National Science Institute,UAE,2013,Energy
+310,DataVision,Netherlands,2018,Agriculture
+311,AgroFuture,China,2015,Space Research
+312,Green Energy Corp,Russia,2021,Space Research
+313,Quantum Analytics,Germany,2018,Energy
+314,Green Energy Corp,India,2022,Environment
+315,AeroTech,Singapore,2025,Cybersecurity
+316,Skyline Tech,Spain,2010,Healthcare
+317,InnoSoft,Japan,2024,AI & ML
+318,Global Research Center,India,2012,Infrastructure
+319,InnoSoft,China,2016,Environment
+320,Global Research Center,Australia,2015,Agriculture
+321,AeroTech,Malaysia,2013,Energy
+322,National Science Institute,India,2023,Environment
+323,Skyline Tech,UAE,2013,Healthcare
+324,HealthPlus,Spain,2025,Environment
+325,EduSmart,Thailand,2015,Transport
+326,National Science Institute,Italy,2010,Transport
+327,EduSmart,UK,2014,Infrastructure
+328,Quantum Analytics,Thailand,2015,Space Research
+329,Global Research Center,Netherlands,2011,Healthcare
+330,Oceanic Research,Thailand,2014,Technology
+331,TechNova,Australia,2018,Healthcare
+332,Oceanic Research,Australia,2022,Agriculture
+333,Quantum Analytics,Thailand,2010,Education
+334,Oceanic Research,Brazil,2012,Transport
+335,EduSmart,South Korea,2025,AI & ML
+336,AgroFuture,Spain,2015,Transport
+337,EduSmart,Italy,2014,Cybersecurity
+338,Skyline Tech,Thailand,2015,Education
+339,Quantum Analytics,Netherlands,2018,AI & ML
+340,Global Research Center,UAE,2024,Healthcare
+341,Quantum Analytics,Thailand,2012,Biotechnology
+342,EduSmart,Russia,2022,Energy
+343,Global Research Center,France,2010,AI & ML
+344,EduSmart,Netherlands,2023,Technology
+345,AgroFuture,Japan,2013,Biotechnology
+346,Global Research Center,Spain,2011,Space Research
+347,Oceanic Research,South Africa,2013,Environment
+348,BioGen Labs,Spain,2014,Energy
+349,Oceanic Research,Malaysia,2010,Transport
+350,Oceanic Research,Italy,2023,AI & ML
+351,AeroTech,UK,2023,Agriculture
+352,EduSmart,Spain,2022,AI & ML
+353,AeroTech,Thailand,2013,Agriculture
+354,Green Energy Corp,Japan,2018,Energy
+355,HealthPlus,India,2012,Cybersecurity
+356,Future Systems,Malaysia,2023,Environment
+357,Future Systems,Canada,2010,AI & ML
+358,DataVision,USA,2013,AI & ML
+359,InnoSoft,USA,2022,Space Research
+360,National Science Institute,Canada,2020,Energy
+361,Green Energy Corp,Singapore,2013,Cybersecurity
+362,Global Research Center,Italy,2018,Space Research
+363,Future Systems,South Africa,2023,Cybersecurity
+364,Quantum Analytics,Singapore,2018,Healthcare
+365,National Science Institute,Russia,2016,Technology
+366,Green Energy Corp,South Africa,2025,Environment
+367,Global Research Center,Singapore,2025,Transport
+368,Future Systems,Brazil,2021,Agriculture
+369,Skyline Tech,Russia,2014,Technology
+370,AgroFuture,France,2017,Infrastructure
+371,HealthPlus,Australia,2013,Biotechnology
+372,EduSmart,Netherlands,2022,AI & ML
+373,Skyline Tech,UAE,2011,Environment
+374,Global Research Center,Russia,2010,Cybersecurity
+375,Skyline Tech,Germany,2014,Technology
+376,HealthPlus,Malaysia,2023,Healthcare
+377,BioGen Labs,Germany,2018,Transport
+378,EduSmart,Singapore,2012,Environment
+379,Quantum Analytics,UK,2022,Transport
+380,Oceanic Research,Russia,2019,Environment
+381,DataVision,Malaysia,2011,Infrastructure
+382,Skyline Tech,Australia,2025,Technology
+383,HealthPlus,USA,2016,Biotechnology
+384,AgroFuture,Netherlands,2019,Healthcare
+385,EduSmart,UK,2017,AI & ML
+386,Quantum Analytics,Australia,2011,Environment
+387,AeroTech,India,2010,Agriculture
+388,Global Research Center,Germany,2018,Biotechnology
+389,Skyline Tech,Russia,2021,Healthcare
+390,National Science Institute,Russia,2022,Cybersecurity
+391,Quantum Analytics,Canada,2010,Agriculture
+392,DataVision,Germany,2012,Cybersecurity
+393,InnoSoft,Brazil,2021,Transport
+394,AeroTech,China,2017,Healthcare
+395,Quantum Analytics,Canada,2024,Healthcare
+396,Oceanic Research,Russia,2010,AI & ML
+397,Future Systems,Australia,2023,Technology
+398,InnoSoft,France,2012,Healthcare
+399,InnoSoft,Brazil,2020,AI & ML
+400,BioGen Labs,Netherlands,2018,Cybersecurity
+401,Oceanic Research,South Africa,2018,Environment
+402,DataVision,South Korea,2022,Biotechnology
+403,Quantum Analytics,Spain,2017,Education
+404,Skyline Tech,UAE,2024,Environment
+405,National Science Institute,South Korea,2010,Agriculture
+406,HealthPlus,France,2018,Education
+407,BioGen Labs,Russia,2017,Technology
+408,National Science Institute,India,2020,Education
+409,Green Energy Corp,Singapore,2010,Environment
+410,DataVision,China,2017,Transport
+411,Future Systems,Germany,2022,Cybersecurity
+412,National Science Institute,UAE,2012,Environment
+413,InnoSoft,Australia,2025,Environment
+414,AeroTech,Singapore,2016,Cybersecurity
+415,Oceanic Research,Thailand,2018,AI & ML
+416,Global Research Center,Canada,2025,Space Research
+417,DataVision,Canada,2017,Education
+418,DataVision,India,2018,Education
+419,EduSmart,India,2016,Biotechnology
+420,AgroFuture,India,2021,Biotechnology
+421,Global Research Center,France,2013,Education
+422,Oceanic Research,Germany,2025,Technology
+423,Quantum Analytics,USA,2011,AI & ML
+424,AgroFuture,Spain,2021,Transport
+425,Quantum Analytics,UAE,2025,Biotechnology
+426,Oceanic Research,Thailand,2018,Technology
+427,HealthPlus,Australia,2018,Transport
+428,Green Energy Corp,India,2014,AI & ML
+429,TechNova,Netherlands,2023,AI & ML
+430,HealthPlus,South Africa,2011,Cybersecurity
+431,InnoSoft,Singapore,2022,AI & ML
+432,AgroFuture,Australia,2024,Biotechnology
+433,BioGen Labs,Netherlands,2024,Cybersecurity
+434,AeroTech,USA,2010,Technology
+435,National Science Institute,Canada,2022,Education
+436,Quantum Analytics,France,2020,Energy
+437,AeroTech,Malaysia,2018,Cybersecurity
+438,Global Research Center,South Africa,2018,Space Research
+439,EduSmart,China,2025,Environment
+440,Quantum Analytics,UAE,2021,Healthcare
+441,Global Research Center,Spain,2023,Transport
+442,EduSmart,Italy,2021,Healthcare
+443,AeroTech,Russia,2018,Energy
+444,HealthPlus,Australia,2014,Healthcare
+445,Quantum Analytics,India,2013,Cybersecurity
+446,DataVision,China,2017,Transport
+447,InnoSoft,Italy,2022,Space Research
+448,EduSmart,Japan,2014,AI & ML
+449,HealthPlus,USA,2015,Transport
+450,Green Energy Corp,Spain,2014,Healthcare
+451,Oceanic Research,Netherlands,2020,Biotechnology
+452,Skyline Tech,Spain,2019,Agriculture
+453,Future Systems,South Africa,2011,Environment
+454,Green Energy Corp,France,2015,AI & ML
+455,TechNova,Canada,2018,Transport
+456,HealthPlus,France,2024,Environment
+457,DataVision,UAE,2018,Biotechnology
+458,AeroTech,Singapore,2018,Cybersecurity
+459,AeroTech,USA,2023,Transport
+460,BioGen Labs,Singapore,2016,Cybersecurity
+461,Quantum Analytics,Thailand,2015,Technology
+462,Skyline Tech,Brazil,2021,Transport
+463,AeroTech,Netherlands,2025,Technology
+464,Skyline Tech,South Korea,2012,Biotechnology
+465,Green Energy Corp,Malaysia,2019,AI & ML
+466,HealthPlus,Japan,2015,Energy
+467,National Science Institute,UAE,2023,Infrastructure
+468,National Science Institute,Malaysia,2022,Technology
+469,AgroFuture,Germany,2012,Education
+470,Global Research Center,UAE,2017,Biotechnology
+471,AeroTech,UAE,2019,Energy
+472,DataVision,China,2022,Infrastructure
+473,Future Systems,South Korea,2021,Technology
+474,DataVision,Thailand,2024,Education
+475,Green Energy Corp,Australia,2015,Environment
+476,AgroFuture,USA,2014,Biotechnology
+477,DataVision,India,2018,Space Research
+478,DataVision,Germany,2016,Education
+479,Global Research Center,Russia,2013,Transport
+480,BioGen Labs,Germany,2025,Space Research
+481,InnoSoft,UK,2010,Cybersecurity
+482,Skyline Tech,Russia,2012,Education
+483,BioGen Labs,China,2014,Healthcare
+484,BioGen Labs,Russia,2019,Agriculture
+485,EduSmart,India,2019,Agriculture
+486,HealthPlus,Japan,2014,Cybersecurity
+487,InnoSoft,Australia,2010,Space Research
+488,TechNova,Singapore,2020,AI & ML
+489,AgroFuture,Spain,2024,Space Research
+490,AgroFuture,South Africa,2018,Technology
+491,InnoSoft,South Korea,2014,Education
+492,DataVision,South Africa,2015,Technology
+493,Quantum Analytics,Malaysia,2024,Healthcare
+494,National Science Institute,Thailand,2023,Cybersecurity
+495,InnoSoft,South Africa,2019,AI & ML
+496,Oceanic Research,Singapore,2025,Transport
+497,InnoSoft,India,2012,Agriculture
+498,HealthPlus,Brazil,2021,Transport
+499,Green Energy Corp,China,2014,Energy
+500,Future Systems,USA,2010,Biotechnology
+501,InnoSoft,Japan,2021,Cybersecurity
+502,Future Systems,Spain,2010,Education
+503,DataVision,Spain,2025,AI & ML
+504,Future Systems,USA,2023,Agriculture
+505,Skyline Tech,Brazil,2017,Space Research
+506,Skyline Tech,USA,2021,Cybersecurity
+507,EduSmart,Italy,2023,Space Research
+508,Green Energy Corp,India,2015,Agriculture
+509,DataVision,Russia,2022,Transport
+510,EduSmart,China,2012,Cybersecurity
+511,Green Energy Corp,India,2018,Healthcare
+512,Future Systems,South Africa,2018,Biotechnology
+513,Green Energy Corp,Canada,2012,Energy
+514,Global Research Center,Japan,2019,Cybersecurity
+515,BioGen Labs,South Korea,2024,Infrastructure
+516,Future Systems,Malaysia,2025,Transport
+517,EduSmart,UAE,2010,Transport
+518,Global Research Center,UK,2010,Energy
+519,Global Research Center,France,2019,Biotechnology
+520,Future Systems,Japan,2024,Education
+521,DataVision,USA,2017,Education
+522,BioGen Labs,Japan,2010,Technology
+523,HealthPlus,Canada,2020,Education
+524,Green Energy Corp,Brazil,2025,AI & ML
+525,AeroTech,South Korea,2011,AI & ML
+526,AeroTech,Germany,2014,Cybersecurity
+527,TechNova,China,2022,Environment
+528,BioGen Labs,South Africa,2025,Space Research
+529,Global Research Center,Canada,2018,Environment
+530,AgroFuture,Russia,2010,Education
+531,BioGen Labs,India,2022,Healthcare
+532,Skyline Tech,South Korea,2017,Education
+533,DataVision,UK,2016,Infrastructure
+534,HealthPlus,France,2016,Space Research
+535,HealthPlus,Russia,2019,Agriculture
+536,Oceanic Research,UAE,2015,Environment
+537,National Science Institute,UK,2013,Biotechnology
+538,Future Systems,Spain,2019,Agriculture
+539,EduSmart,Singapore,2011,Environment
+540,AgroFuture,Canada,2013,Infrastructure
+541,EduSmart,Italy,2020,Environment
+542,TechNova,Australia,2018,Environment
+543,Quantum Analytics,France,2022,Transport
+544,Skyline Tech,India,2010,Cybersecurity
+545,TechNova,Thailand,2025,Environment
+546,DataVision,Malaysia,2014,Biotechnology
+547,AeroTech,Germany,2017,AI & ML
+548,Global Research Center,Spain,2012,Cybersecurity
+549,National Science Institute,Malaysia,2020,Education
+550,Oceanic Research,UK,2011,Cybersecurity
+551,AeroTech,Japan,2013,Education
+552,Global Research Center,Spain,2017,Biotechnology
+553,AeroTech,South Africa,2021,Healthcare
+554,Skyline Tech,South Korea,2016,Environment
+555,TechNova,Russia,2021,Cybersecurity
+556,DataVision,Japan,2018,Agriculture
+557,Oceanic Research,UK,2025,Biotechnology
+558,DataVision,South Korea,2019,Space Research
+559,InnoSoft,Spain,2016,Healthcare
+560,Quantum Analytics,Australia,2021,AI & ML
+561,AeroTech,South Korea,2018,Space Research
+562,AgroFuture,Malaysia,2015,Education
+563,BioGen Labs,Netherlands,2014,Technology
+564,HealthPlus,Brazil,2018,Agriculture
+565,InnoSoft,Singapore,2024,AI & ML
+566,TechNova,Netherlands,2022,Infrastructure
+567,DataVision,Australia,2010,Healthcare
+568,Quantum Analytics,Singapore,2017,Infrastructure
+569,AeroTech,Germany,2022,Agriculture
+570,EduSmart,Netherlands,2025,Energy
+571,Skyline Tech,South Africa,2014,Energy
+572,Quantum Analytics,Brazil,2020,Space Research
+573,Green Energy Corp,UAE,2013,Healthcare
+574,BioGen Labs,Netherlands,2012,AI & ML
+575,TechNova,Japan,2015,AI & ML
+576,AgroFuture,UK,2016,Space Research
+577,BioGen Labs,Spain,2016,Energy
+578,BioGen Labs,UK,2022,Technology
+579,National Science Institute,Spain,2018,Environment
+580,TechNova,Singapore,2017,Energy
+581,Quantum Analytics,Germany,2010,Technology
+582,Oceanic Research,Canada,2025,Space Research
+583,Oceanic Research,Germany,2024,Environment
+584,Skyline Tech,UK,2021,Healthcare
+585,InnoSoft,Italy,2021,Biotechnology
+586,Skyline Tech,UK,2018,Infrastructure
+587,InnoSoft,UK,2012,Agriculture
+588,AgroFuture,Brazil,2012,Space Research
+589,EduSmart,Netherlands,2013,Education
+590,BioGen Labs,India,2022,Transport
+591,EduSmart,Canada,2017,Energy
+592,Quantum Analytics,Australia,2023,Infrastructure
+593,DataVision,France,2021,Energy
+594,National Science Institute,South Korea,2023,Environment
+595,Oceanic Research,France,2015,Technology
+596,Skyline Tech,Australia,2022,Healthcare
+597,InnoSoft,UAE,2015,AI & ML
+598,InnoSoft,Malaysia,2024,AI & ML
+599,Oceanic Research,Singapore,2020,Cybersecurity
+600,InnoSoft,UAE,2021,Cybersecurity
+601,Green Energy Corp,Italy,2020,Infrastructure
+602,Quantum Analytics,India,2016,AI & ML
+603,Green Energy Corp,South Africa,2018,Environment
+604,AeroTech,South Korea,2024,Healthcare
+605,Green Energy Corp,USA,2011,Agriculture
+606,Future Systems,Malaysia,2010,Biotechnology
+607,InnoSoft,Japan,2019,Environment
+608,TechNova,Brazil,2017,Environment
+609,EduSmart,UAE,2010,Cybersecurity
+610,Skyline Tech,China,2014,Biotechnology
+611,BioGen Labs,UK,2024,Space Research
+612,AeroTech,Japan,2014,Biotechnology
+613,Future Systems,Singapore,2017,Biotechnology
+614,EduSmart,China,2019,Agriculture
+615,BioGen Labs,Thailand,2022,Transport
+616,Quantum Analytics,Canada,2012,Healthcare
+617,DataVision,UAE,2025,Cybersecurity
+618,Global Research Center,Spain,2013,AI & ML
+619,Quantum Analytics,Brazil,2011,AI & ML
+620,DataVision,Thailand,2022,Space Research
+621,BioGen Labs,UK,2020,Space Research
+622,AeroTech,Italy,2023,Agriculture
+623,Oceanic Research,France,2017,Infrastructure
+624,DataVision,Malaysia,2010,Infrastructure
+625,National Science Institute,Russia,2011,Healthcare
+626,Future Systems,Netherlands,2011,Energy
+627,AeroTech,South Africa,2014,Agriculture
+628,AeroTech,Netherlands,2017,Education
+629,Global Research Center,UK,2022,Healthcare
+630,HealthPlus,Malaysia,2012,Education
+631,EduSmart,Italy,2019,Healthcare
+632,Skyline Tech,Russia,2014,Energy
+633,Global Research Center,UAE,2012,Environment
+634,HealthPlus,Thailand,2011,Biotechnology
+635,InnoSoft,Russia,2018,Healthcare
+636,BioGen Labs,Russia,2023,Education
+637,Skyline Tech,Japan,2014,Environment
+638,HealthPlus,South Africa,2016,Cybersecurity
+639,HealthPlus,Russia,2016,Cybersecurity
+640,InnoSoft,Malaysia,2017,Agriculture
+641,EduSmart,Germany,2018,Biotechnology
+642,Skyline Tech,Italy,2020,Cybersecurity
+643,National Science Institute,Thailand,2012,Environment
+644,BioGen Labs,Italy,2023,Education
+645,AeroTech,Singapore,2016,Healthcare
+646,AeroTech,Singapore,2010,Biotechnology
+647,Skyline Tech,Brazil,2015,Healthcare
+648,AeroTech,Malaysia,2024,Energy
+649,Quantum Analytics,Japan,2024,Space Research
+650,TechNova,India,2016,Environment
+651,National Science Institute,Singapore,2014,Technology
+652,Skyline Tech,Germany,2013,Agriculture
+653,DataVision,UK,2017,Cybersecurity
+654,Quantum Analytics,Japan,2019,Space Research
+655,TechNova,UAE,2013,Agriculture
+656,Future Systems,South Korea,2025,Healthcare
+657,TechNova,UAE,2016,Cybersecurity
+658,DataVision,South Africa,2016,Space Research
+659,EduSmart,South Africa,2018,Infrastructure
+660,InnoSoft,Spain,2014,Energy
+661,DataVision,USA,2022,Cybersecurity
+662,Quantum Analytics,Netherlands,2011,Transport
+663,Future Systems,Australia,2011,Infrastructure
+664,Future Systems,Canada,2018,Technology
+665,TechNova,South Korea,2010,Healthcare
+666,BioGen Labs,Russia,2018,Cybersecurity
+667,National Science Institute,Singapore,2013,Biotechnology
+668,TechNova,Brazil,2022,Transport
+669,EduSmart,Russia,2013,AI & ML
+670,Oceanic Research,UAE,2025,Healthcare
+671,AgroFuture,Malaysia,2012,Space Research
+672,Global Research Center,Canada,2024,Environment
+673,InnoSoft,USA,2011,Infrastructure
+674,EduSmart,Netherlands,2019,Energy
+675,AeroTech,Spain,2022,Agriculture
+676,DataVision,Australia,2010,Energy
+677,AeroTech,Singapore,2021,Technology
+678,National Science Institute,Brazil,2017,Cybersecurity
+679,InnoSoft,China,2011,Education
+680,National Science Institute,China,2022,Environment
+681,Oceanic Research,USA,2018,Infrastructure
+682,EduSmart,Japan,2020,Biotechnology
+683,Oceanic Research,Russia,2014,Technology
+684,BioGen Labs,Russia,2017,Space Research
+685,Green Energy Corp,India,2014,Biotechnology
+686,Green Energy Corp,Brazil,2020,Healthcare
+687,HealthPlus,South Africa,2014,Agriculture
+688,EduSmart,Japan,2016,Healthcare
+689,AgroFuture,Japan,2019,Biotechnology
+690,DataVision,Netherlands,2014,Education
+691,Green Energy Corp,Japan,2015,Education
+692,AeroTech,Germany,2013,Cybersecurity
+693,Global Research Center,UAE,2014,Space Research
+694,DataVision,USA,2020,Transport
+695,Oceanic Research,Italy,2023,Environment
+696,Future Systems,South Korea,2018,Biotechnology
+697,Global Research Center,Canada,2013,Biotechnology
+698,Global Research Center,Australia,2010,Energy
+699,Skyline Tech,Malaysia,2018,Energy
+700,Quantum Analytics,Thailand,2017,Biotechnology
+701,Quantum Analytics,India,2017,Space Research
+702,National Science Institute,USA,2021,Education
+703,BioGen Labs,Spain,2014,Infrastructure
+704,InnoSoft,Malaysia,2025,Environment
+705,DataVision,Singapore,2015,AI & ML
+706,AgroFuture,Russia,2025,AI & ML
+707,HealthPlus,Japan,2015,Agriculture
+708,EduSmart,India,2011,Environment
+709,Green Energy Corp,USA,2018,Education
+710,Green Energy Corp,India,2016,Space Research
+711,Skyline Tech,Canada,2012,Education
+712,Global Research Center,South Korea,2025,Education
+713,DataVision,UAE,2024,Space Research
+714,Oceanic Research,India,2023,Cybersecurity
+715,Green Energy Corp,UK,2022,Transport
+716,DataVision,UAE,2022,Biotechnology
+717,Quantum Analytics,Thailand,2011,Healthcare
+718,InnoSoft,France,2024,AI & ML
+719,HealthPlus,UK,2017,Cybersecurity
+720,InnoSoft,South Africa,2022,Space Research
+721,DataVision,UK,2022,Energy
+722,InnoSoft,UK,2016,Space Research
+723,Future Systems,South Korea,2022,Environment
+724,Oceanic Research,Brazil,2019,Education
+725,HealthPlus,Australia,2023,Transport
+726,Future Systems,Malaysia,2011,Environment
+727,DataVision,Netherlands,2014,Technology
+728,HealthPlus,South Korea,2012,Transport
+729,DataVision,Netherlands,2013,Cybersecurity
+730,Global Research Center,Thailand,2014,AI & ML
+731,Green Energy Corp,Italy,2020,AI & ML
+732,HealthPlus,USA,2015,Biotechnology
+733,HealthPlus,Thailand,2016,Healthcare
+734,Oceanic Research,South Korea,2012,Biotechnology
+735,Future Systems,UAE,2015,Energy
+736,DataVision,France,2012,AI & ML
+737,BioGen Labs,South Korea,2021,Infrastructure
+738,BioGen Labs,Netherlands,2022,Agriculture
+739,DataVision,Netherlands,2015,Cybersecurity
+740,Green Energy Corp,South Africa,2022,Transport
+741,TechNova,Australia,2020,Energy
+742,Quantum Analytics,Japan,2015,Energy
+743,AgroFuture,Japan,2015,Space Research
+744,Skyline Tech,UK,2023,Infrastructure
+745,Future Systems,Brazil,2024,Infrastructure
+746,Future Systems,Australia,2013,Education
+747,Oceanic Research,Japan,2016,Environment
+748,TechNova,Malaysia,2018,Technology
+749,TechNova,South Korea,2025,Transport
+750,AgroFuture,Spain,2010,Biotechnology
+751,Quantum Analytics,Spain,2017,Space Research
+752,EduSmart,Thailand,2025,Healthcare
+753,HealthPlus,Italy,2024,AI & ML
+754,BioGen Labs,Malaysia,2010,Biotechnology
+755,EduSmart,South Africa,2018,Biotechnology
+756,Quantum Analytics,South Africa,2016,Cybersecurity
+757,TechNova,Australia,2014,Transport
+758,TechNova,Singapore,2011,Technology
+759,Global Research Center,UK,2019,Biotechnology
+760,AeroTech,Germany,2011,Cybersecurity
+761,BioGen Labs,Italy,2015,AI & ML
+762,Global Research Center,Brazil,2015,Agriculture
+763,HealthPlus,Thailand,2021,Education
+764,Oceanic Research,UK,2012,Space Research
+765,Skyline Tech,Brazil,2020,Education
+766,AeroTech,Russia,2012,Environment
+767,Skyline Tech,Italy,2012,Space Research
+768,Future Systems,Spain,2014,Education
+769,BioGen Labs,China,2020,Transport
+770,InnoSoft,Italy,2016,Healthcare
+771,DataVision,Canada,2011,Transport
+772,BioGen Labs,Thailand,2012,Transport
+773,HealthPlus,Malaysia,2019,Education
+774,Green Energy Corp,Malaysia,2020,Energy
+775,Future Systems,Netherlands,2021,Agriculture
+776,Oceanic Research,Japan,2025,Biotechnology
+777,InnoSoft,Spain,2025,Education
+778,Skyline Tech,Australia,2017,Education
+779,DataVision,Brazil,2016,Technology
+780,TechNova,France,2010,Energy
+781,HealthPlus,France,2016,Energy
+782,Skyline Tech,Malaysia,2023,Space Research
+783,Green Energy Corp,UK,2020,Agriculture
+784,AeroTech,South Africa,2016,Healthcare
+785,TechNova,Canada,2019,Energy
+786,Future Systems,Germany,2019,Energy
+787,Future Systems,Netherlands,2020,Healthcare
+788,Skyline Tech,USA,2013,Cybersecurity
+789,National Science Institute,UAE,2020,Cybersecurity
+790,Green Energy Corp,Thailand,2010,AI & ML
+791,AgroFuture,Australia,2016,Infrastructure
+792,AeroTech,UAE,2025,Biotechnology
+793,Oceanic Research,Spain,2011,AI & ML
+794,National Science Institute,Japan,2025,Education
+795,Global Research Center,South Korea,2020,Healthcare
+796,HealthPlus,Italy,2011,Healthcare
+797,AgroFuture,Netherlands,2019,Energy
+798,Quantum Analytics,UAE,2010,Cybersecurity
+799,EduSmart,Thailand,2020,Energy
+800,Skyline Tech,Singapore,2012,Biotechnology
+801,Global Research Center,China,2010,Space Research
+802,AeroTech,Russia,2015,Education
+803,Quantum Analytics,Malaysia,2022,AI & ML
+804,Global Research Center,Malaysia,2013,Cybersecurity
+805,AgroFuture,Brazil,2020,Education
+806,DataVision,UK,2018,Biotechnology
+807,Green Energy Corp,Germany,2025,Cybersecurity
+808,Oceanic Research,India,2021,Transport
+809,HealthPlus,Brazil,2016,Biotechnology
+810,InnoSoft,Brazil,2015,Transport
+811,BioGen Labs,Singapore,2011,Education
+812,Skyline Tech,Canada,2012,Environment
+813,HealthPlus,Netherlands,2010,AI & ML
+814,Skyline Tech,Spain,2014,Energy
+815,EduSmart,UAE,2025,Agriculture
+816,DataVision,Netherlands,2019,Healthcare
+817,Skyline Tech,UAE,2014,Agriculture
+818,Skyline Tech,France,2014,Infrastructure
+819,EduSmart,UK,2024,Space Research
+820,Green Energy Corp,Netherlands,2013,Cybersecurity
+821,TechNova,Brazil,2011,Space Research
+822,National Science Institute,Malaysia,2012,Cybersecurity
+823,AeroTech,South Korea,2011,Education
+824,BioGen Labs,Netherlands,2019,Technology
+825,TechNova,Thailand,2019,Technology
+826,National Science Institute,Canada,2020,Space Research
+827,EduSmart,Canada,2019,Environment
+828,Future Systems,South Africa,2020,Energy
+829,Skyline Tech,South Korea,2013,Biotechnology
+830,Future Systems,Japan,2015,Biotechnology
+831,Future Systems,France,2010,Agriculture
+832,Quantum Analytics,South Africa,2013,AI & ML
+833,EduSmart,South Africa,2021,Environment
+834,InnoSoft,UAE,2018,Transport
+835,Global Research Center,Brazil,2017,Environment
+836,Global Research Center,Germany,2019,Education
+837,Quantum Analytics,UAE,2024,Technology
+838,TechNova,Japan,2010,AI & ML
+839,HealthPlus,UK,2013,Agriculture
+840,Green Energy Corp,UK,2012,Environment
+841,Green Energy Corp,Russia,2015,Transport
+842,DataVision,Malaysia,2024,Energy
+843,Quantum Analytics,Singapore,2019,Transport
+844,AeroTech,Canada,2012,AI & ML
+845,Oceanic Research,South Korea,2014,Environment
+846,BioGen Labs,South Korea,2013,Education
+847,HealthPlus,Brazil,2024,AI & ML
+848,HealthPlus,India,2017,AI & ML
+849,Global Research Center,Malaysia,2018,Transport
+850,Oceanic Research,Singapore,2022,Infrastructure
+851,Global Research Center,UAE,2020,AI & ML
+852,HealthPlus,Spain,2010,Healthcare
+853,BioGen Labs,Spain,2013,Cybersecurity
+854,AeroTech,Spain,2024,Technology
+855,AgroFuture,Australia,2019,Cybersecurity
+856,Skyline Tech,Singapore,2014,Biotechnology
+857,InnoSoft,France,2022,Healthcare
+858,AgroFuture,France,2020,Transport
+859,InnoSoft,Germany,2019,Biotechnology
+860,InnoSoft,South Korea,2022,AI & ML
+861,Quantum Analytics,Italy,2017,Transport
+862,Quantum Analytics,India,2015,Cybersecurity
+863,HealthPlus,Russia,2012,Transport
+864,AeroTech,Canada,2023,Cybersecurity
+865,Skyline Tech,Italy,2020,Agriculture
+866,InnoSoft,India,2015,Agriculture
+867,National Science Institute,Germany,2025,Healthcare
+868,BioGen Labs,Thailand,2024,Transport
+869,AeroTech,South Africa,2013,Cybersecurity
+870,AgroFuture,South Korea,2015,Technology
+871,Future Systems,Russia,2012,Technology
+872,Quantum Analytics,France,2022,Space Research
+873,AeroTech,Spain,2011,Energy
+874,BioGen Labs,Canada,2014,Transport
+875,Oceanic Research,Thailand,2010,AI & ML
+876,Skyline Tech,Japan,2014,Education
+877,HealthPlus,South Africa,2019,Education
+878,Green Energy Corp,Malaysia,2024,Education
+879,EduSmart,Canada,2020,Energy
+880,Future Systems,Thailand,2019,Education
+881,Oceanic Research,Italy,2021,Healthcare
+882,BioGen Labs,Thailand,2010,Energy
+883,Quantum Analytics,Netherlands,2022,Biotechnology
+884,AgroFuture,Japan,2019,Environment
+885,TechNova,Singapore,2011,Infrastructure
+886,TechNova,South Africa,2021,Infrastructure
+887,BioGen Labs,Brazil,2010,AI & ML
+888,EduSmart,Italy,2022,Infrastructure
+889,National Science Institute,UAE,2022,Environment
+890,Green Energy Corp,Russia,2023,Biotechnology
+891,InnoSoft,Canada,2015,Transport
+892,HealthPlus,Japan,2016,Biotechnology
+893,InnoSoft,Russia,2021,Cybersecurity
+894,AgroFuture,Italy,2014,Infrastructure
+895,Future Systems,Japan,2014,Healthcare
+896,TechNova,Germany,2010,Energy
+897,Global Research Center,Spain,2023,Biotechnology
+898,Global Research Center,Germany,2014,Environment
+899,National Science Institute,Italy,2024,Biotechnology
+900,Oceanic Research,Malaysia,2023,Biotechnology
+901,Quantum Analytics,Australia,2024,Environment
+902,InnoSoft,Italy,2024,Space Research
+903,Green Energy Corp,Singapore,2017,Education
+904,Global Research Center,Italy,2010,Energy
+905,Quantum Analytics,Spain,2017,Cybersecurity
+906,DataVision,Netherlands,2018,Transport
+907,Green Energy Corp,South Africa,2021,AI & ML
+908,TechNova,UK,2025,Agriculture
+909,DataVision,Singapore,2013,Cybersecurity
+910,Quantum Analytics,Spain,2012,Transport
+911,Global Research Center,Netherlands,2018,Transport
+912,HealthPlus,Netherlands,2012,Biotechnology
+913,InnoSoft,Malaysia,2012,AI & ML
+914,EduSmart,Spain,2012,Space Research
+915,National Science Institute,South Africa,2019,Agriculture
+916,Quantum Analytics,UK,2020,Education
+917,InnoSoft,USA,2025,Biotechnology
+918,HealthPlus,Netherlands,2025,Infrastructure
+919,Quantum Analytics,UAE,2023,Biotechnology
+920,AeroTech,Brazil,2019,Biotechnology
+921,Global Research Center,UK,2019,AI & ML
+922,DataVision,Thailand,2018,Cybersecurity
+923,TechNova,Spain,2015,Biotechnology
+924,Quantum Analytics,UK,2019,Healthcare
+925,Skyline Tech,Malaysia,2010,Technology
+926,Future Systems,Spain,2012,Cybersecurity
+927,Global Research Center,Netherlands,2012,Agriculture
+928,AgroFuture,China,2018,Transport
+929,Global Research Center,Malaysia,2018,Agriculture
+930,Future Systems,China,2010,Transport
+931,DataVision,France,2015,Energy
+932,Oceanic Research,Thailand,2014,AI & ML
+933,National Science Institute,South Korea,2021,Transport
+934,Skyline Tech,Australia,2018,Transport
+935,Skyline Tech,India,2025,Transport
+936,Global Research Center,Netherlands,2011,Technology
+937,AeroTech,Germany,2014,Infrastructure
+938,Quantum Analytics,Japan,2025,Infrastructure
+939,Skyline Tech,Italy,2022,Space Research
+940,EduSmart,South Korea,2015,Energy
+941,EduSmart,Thailand,2021,Technology
+942,TechNova,China,2013,Healthcare
+943,TechNova,Australia,2024,Technology
+944,Green Energy Corp,Spain,2019,Transport
+945,HealthPlus,South Africa,2017,Energy
+946,Green Energy Corp,Russia,2025,Cybersecurity
+947,Future Systems,Japan,2023,Biotechnology
+948,TechNova,Brazil,2024,Technology
+949,Green Energy Corp,UAE,2011,Technology
+950,BioGen Labs,South Africa,2021,Environment
+951,AgroFuture,Italy,2018,Space Research
+952,AeroTech,China,2018,Technology
+953,Skyline Tech,France,2018,Education
+954,National Science Institute,Thailand,2022,Agriculture
+955,HealthPlus,India,2016,AI & ML
+956,InnoSoft,UAE,2015,AI & ML
+957,AeroTech,South Africa,2010,Environment
+958,National Science Institute,USA,2012,Education
+959,TechNova,Italy,2013,Cybersecurity
+960,InnoSoft,France,2024,Biotechnology
+961,AeroTech,India,2019,Agriculture
+962,Future Systems,Canada,2011,AI & ML
+963,TechNova,Malaysia,2012,AI & ML
+964,TechNova,Malaysia,2016,Education
+965,Quantum Analytics,France,2013,Space Research
+966,BioGen Labs,Malaysia,2014,Healthcare
+967,Green Energy Corp,Thailand,2015,Space Research
+968,Oceanic Research,France,2015,Biotechnology
+969,Future Systems,Brazil,2024,Energy
+970,National Science Institute,Germany,2024,Transport
+971,Oceanic Research,China,2023,Environment
+972,DataVision,UAE,2018,Technology
+973,Global Research Center,Germany,2018,Technology
+974,Skyline Tech,UK,2022,Healthcare
+975,Green Energy Corp,UAE,2011,Agriculture
+976,Future Systems,China,2015,AI & ML
+977,HealthPlus,Germany,2025,Healthcare
+978,Oceanic Research,Canada,2022,Space Research
+979,Global Research Center,Spain,2013,Environment
+980,Global Research Center,South Africa,2023,Biotechnology
+981,EduSmart,Malaysia,2013,Transport
+982,Oceanic Research,South Korea,2018,Energy
+983,BioGen Labs,UK,2012,Agriculture
+984,BioGen Labs,Thailand,2018,Space Research
+985,Skyline Tech,South Korea,2010,Agriculture
+986,Oceanic Research,Spain,2014,Education
+987,National Science Institute,USA,2011,AI & ML
+988,National Science Institute,Russia,2018,Education
+989,Global Research Center,UAE,2022,Transport
+990,Quantum Analytics,USA,2025,Education
+991,HealthPlus,Italy,2022,Cybersecurity
+992,AgroFuture,Germany,2017,Cybersecurity
+993,TechNova,Russia,2025,AI & ML
+994,BioGen Labs,Thailand,2021,AI & ML
+995,AeroTech,Brazil,2022,Energy
+996,TechNova,Germany,2021,Space Research
+997,InnoSoft,UAE,2012,AI & ML
+998,AgroFuture,South Korea,2019,Education
+999,National Science Institute,Canada,2015,Agriculture
+1000,InnoSoft,UK,2022,Healthcare

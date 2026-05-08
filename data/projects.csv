@@ -1,0 +1,1001 @@
+id,project_name,sector,country,budget,year
+1,Renewable Energy Storage,AI & ML,Italy,2508402,2016
+2,Renewable Energy Storage,Education,France,2270778,2020
+3,AI Healthcare Platform,Biotechnology,Australia,2097992,2024
+4,Satellite Communication System,Technology,China,4495581,2018
+5,Climate Monitoring System,Education,France,1127992,2020
+6,National Data Hub,Energy,India,3725086,2025
+7,Climate Monitoring System,Transport,France,4917482,2022
+8,National Data Hub,AI & ML,Spain,4808813,2023
+9,Smart City Initiative,Cybersecurity,Russia,1508798,2019
+10,Green Hydrogen Mission,Healthcare,India,2088531,2021
+11,National Data Hub,Education,South Africa,61205,2017
+12,Climate Monitoring System,Cybersecurity,Australia,1140843,2015
+13,Smart City Initiative,Education,South Korea,1531983,2018
+14,Renewable Energy Storage,Technology,Japan,3304799,2024
+15,AI Healthcare Platform,Cybersecurity,India,2474755,2017
+16,Solar Grid Expansion,Agriculture,Malaysia,2020048,2020
+17,AgriTech Innovation,AI & ML,Singapore,2274956,2020
+18,Satellite Communication System,Technology,Canada,1906247,2016
+19,Renewable Energy Storage,Biotechnology,Canada,83283,2016
+20,Urban Mobility Project,Space Research,Japan,731664,2019
+21,National Data Hub,Space Research,USA,3048468,2020
+22,Renewable Energy Storage,Agriculture,Australia,3244551,2021
+23,AI Healthcare Platform,Transport,Brazil,3757996,2020
+24,Cyber Defense Program,Education,Brazil,1122239,2016
+25,Green Hydrogen Mission,Space Research,China,1493295,2015
+26,Solar Grid Expansion,Education,South Africa,3294375,2023
+27,Clean Water Initiative,Energy,Thailand,363626,2023
+28,AgriTech Innovation,Healthcare,Thailand,1530203,2022
+29,Climate Monitoring System,Space Research,Germany,1278139,2021
+30,Digital Education Drive,Energy,South Africa,4229201,2024
+31,Clean Water Initiative,Education,Australia,2034894,2020
+32,AI Healthcare Platform,Transport,China,1059226,2016
+33,Climate Monitoring System,Space Research,USA,3829006,2020
+34,AI Healthcare Platform,Energy,Brazil,1652616,2024
+35,AI Healthcare Platform,Education,Malaysia,2379561,2024
+36,Cyber Defense Program,Education,UK,759998,2019
+37,Satellite Communication System,Technology,Singapore,1375607,2025
+38,Urban Mobility Project,Healthcare,UK,3407613,2017
+39,Satellite Communication System,Transport,South Korea,4628165,2020
+40,Digital Education Drive,Technology,Thailand,2722939,2015
+41,AI Healthcare Platform,Environment,France,479528,2025
+42,AgriTech Innovation,Infrastructure,India,4407137,2025
+43,AI Healthcare Platform,Transport,South Africa,2108780,2016
+44,Cyber Defense Program,Education,UAE,973630,2025
+45,AgriTech Innovation,Space Research,Japan,3887076,2019
+46,AI Healthcare Platform,Environment,Canada,1027649,2015
+47,Smart City Initiative,Technology,India,4105308,2018
+48,Renewable Energy Storage,Healthcare,South Africa,3072168,2023
+49,Cyber Defense Program,Biotechnology,South Korea,3168913,2015
+50,Digital Education Drive,Environment,Italy,190333,2022
+51,AI Healthcare Platform,Education,France,314884,2023
+52,Digital Education Drive,Cybersecurity,South Korea,3980993,2020
+53,AgriTech Innovation,Technology,France,4778748,2017
+54,Green Hydrogen Mission,Space Research,Thailand,1483159,2015
+55,Green Hydrogen Mission,Space Research,UK,1367778,2018
+56,Climate Monitoring System,Infrastructure,China,1895378,2020
+57,National Data Hub,Environment,South Korea,1106390,2017
+58,Satellite Communication System,Cybersecurity,UK,4919192,2021
+59,Digital Education Drive,AI & ML,South Africa,4224027,2020
+60,Satellite Communication System,Healthcare,UK,2389411,2020
+61,Renewable Energy Storage,Transport,UK,3090631,2016
+62,Renewable Energy Storage,Agriculture,UK,715610,2022
+63,National Data Hub,Cybersecurity,Singapore,927462,2024
+64,Digital Education Drive,Environment,Singapore,939119,2024
+65,Cyber Defense Program,Agriculture,Australia,2269110,2017
+66,Cyber Defense Program,Infrastructure,Singapore,4318792,2025
+67,Renewable Energy Storage,Technology,UK,1899635,2024
+68,Smart City Initiative,Healthcare,France,3673997,2021
+69,Cyber Defense Program,Environment,Australia,3117586,2016
+70,Solar Grid Expansion,Energy,China,2653945,2024
+71,Urban Mobility Project,Space Research,UK,528572,2017
+72,Digital Education Drive,Environment,Thailand,2596035,2018
+73,Green Hydrogen Mission,Energy,France,2675372,2022
+74,Solar Grid Expansion,Healthcare,France,402523,2018
+75,Cyber Defense Program,Healthcare,Thailand,1149526,2019
+76,Climate Monitoring System,Infrastructure,India,3543067,2016
+77,Climate Monitoring System,AI & ML,Spain,4837586,2022
+78,National Data Hub,Agriculture,Italy,1891267,2016
+79,Clean Water Initiative,AI & ML,Brazil,1886345,2020
+80,Urban Mobility Project,Healthcare,Brazil,3160755,2018
+81,Green Hydrogen Mission,Energy,Australia,553172,2015
+82,National Data Hub,Cybersecurity,South Korea,1919469,2022
+83,Green Hydrogen Mission,Education,Canada,2750949,2019
+84,Digital Education Drive,Biotechnology,Spain,3179901,2017
+85,National Data Hub,Technology,Russia,3419666,2019
+86,AI Healthcare Platform,Biotechnology,South Africa,756343,2023
+87,AgriTech Innovation,AI & ML,Singapore,2357357,2018
+88,Smart City Initiative,AI & ML,Malaysia,553001,2023
+89,Satellite Communication System,Agriculture,Netherlands,398988,2017
+90,AgriTech Innovation,Space Research,Russia,179646,2022
+91,Green Hydrogen Mission,Transport,Thailand,959337,2023
+92,Cyber Defense Program,Space Research,Italy,4322353,2017
+93,Climate Monitoring System,Healthcare,Russia,1990987,2023
+94,Satellite Communication System,Cybersecurity,Canada,2510145,2024
+95,Climate Monitoring System,Technology,South Africa,3883930,2015
+96,Cyber Defense Program,Cybersecurity,Japan,1848328,2025
+97,Cyber Defense Program,Agriculture,USA,2214054,2018
+98,Urban Mobility Project,Biotechnology,Italy,3509139,2025
+99,Renewable Energy Storage,Agriculture,South Africa,2823470,2015
+100,Satellite Communication System,Technology,Germany,1773280,2017
+101,AgriTech Innovation,Technology,Canada,2757467,2018
+102,Renewable Energy Storage,Agriculture,Spain,3611855,2015
+103,National Data Hub,Space Research,Spain,4738115,2021
+104,Solar Grid Expansion,Agriculture,France,1291402,2025
+105,Cyber Defense Program,Education,Singapore,69766,2025
+106,Satellite Communication System,Agriculture,UK,3363432,2016
+107,Renewable Energy Storage,Transport,South Africa,378833,2021
+108,AgriTech Innovation,Infrastructure,Singapore,1223191,2016
+109,Digital Education Drive,Energy,UAE,2675705,2024
+110,AI Healthcare Platform,Infrastructure,UAE,4653963,2019
+111,Clean Water Initiative,Biotechnology,South Korea,4669230,2020
+112,Green Hydrogen Mission,Biotechnology,South Africa,909271,2019
+113,Smart City Initiative,Education,Spain,4671902,2020
+114,AI Healthcare Platform,AI & ML,Brazil,2871825,2023
+115,AI Healthcare Platform,Biotechnology,Italy,1556568,2016
+116,Digital Education Drive,Energy,Brazil,4703637,2017
+117,AgriTech Innovation,Biotechnology,Spain,3314273,2016
+118,National Data Hub,Cybersecurity,Spain,416287,2016
+119,AgriTech Innovation,Education,Germany,3683915,2025
+120,AI Healthcare Platform,Healthcare,Australia,1064860,2017
+121,Solar Grid Expansion,Biotechnology,Canada,345694,2019
+122,Clean Water Initiative,Healthcare,Australia,351770,2022
+123,Cyber Defense Program,Technology,UAE,1126155,2019
+124,AI Healthcare Platform,Education,Japan,3694963,2017
+125,Solar Grid Expansion,Healthcare,Japan,399706,2017
+126,Clean Water Initiative,Agriculture,Thailand,3274473,2021
+127,Satellite Communication System,Environment,Canada,3157687,2024
+128,Urban Mobility Project,Infrastructure,Canada,1492202,2018
+129,Renewable Energy Storage,Space Research,Italy,2484627,2016
+130,Solar Grid Expansion,Environment,Germany,1313233,2016
+131,Green Hydrogen Mission,Healthcare,Singapore,1796514,2025
+132,Green Hydrogen Mission,Infrastructure,UAE,781820,2025
+133,Green Hydrogen Mission,Energy,South Africa,3236188,2020
+134,Solar Grid Expansion,Space Research,Canada,4687467,2017
+135,AgriTech Innovation,Biotechnology,Singapore,3510772,2025
+136,Urban Mobility Project,Technology,UK,3887350,2025
+137,Digital Education Drive,Healthcare,Brazil,4258604,2021
+138,Green Hydrogen Mission,Healthcare,UK,3027223,2024
+139,AI Healthcare Platform,Transport,Italy,4668776,2023
+140,Renewable Energy Storage,Energy,Malaysia,1331305,2022
+141,National Data Hub,Environment,Singapore,303928,2023
+142,Solar Grid Expansion,Transport,Japan,2239241,2025
+143,Solar Grid Expansion,Transport,Russia,2407990,2022
+144,Urban Mobility Project,Education,UK,4713785,2025
+145,Clean Water Initiative,Technology,Malaysia,3879093,2017
+146,Solar Grid Expansion,AI & ML,South Korea,3991537,2018
+147,Cyber Defense Program,Infrastructure,France,896189,2025
+148,Green Hydrogen Mission,AI & ML,Italy,324937,2018
+149,Clean Water Initiative,Healthcare,Brazil,4217643,2023
+150,Urban Mobility Project,Agriculture,China,4751863,2023
+151,Smart City Initiative,AI & ML,India,2343776,2018
+152,AgriTech Innovation,Space Research,South Africa,972392,2023
+153,Cyber Defense Program,Energy,Canada,4896655,2024
+154,Climate Monitoring System,Cybersecurity,South Africa,3874459,2022
+155,Urban Mobility Project,Agriculture,South Korea,3058137,2018
+156,Climate Monitoring System,Space Research,Italy,2136865,2023
+157,Satellite Communication System,Healthcare,Malaysia,4220083,2016
+158,AgriTech Innovation,AI & ML,Singapore,2916778,2020
+159,Green Hydrogen Mission,Education,Brazil,4987864,2025
+160,Urban Mobility Project,Space Research,Thailand,2085025,2018
+161,Cyber Defense Program,Cybersecurity,South Korea,4274733,2021
+162,Satellite Communication System,AI & ML,South Korea,4747066,2021
+163,Cyber Defense Program,Healthcare,South Africa,3168452,2019
+164,Climate Monitoring System,Biotechnology,Malaysia,3296505,2021
+165,Satellite Communication System,Energy,China,4395671,2022
+166,AgriTech Innovation,Healthcare,Brazil,4068590,2022
+167,Urban Mobility Project,Technology,Italy,3256177,2018
+168,Cyber Defense Program,Biotechnology,Thailand,562315,2025
+169,Clean Water Initiative,Environment,Canada,3810549,2018
+170,Cyber Defense Program,Infrastructure,France,4669281,2017
+171,AgriTech Innovation,Technology,Thailand,835970,2025
+172,Cyber Defense Program,Environment,Malaysia,4237297,2017
+173,Clean Water Initiative,Technology,France,1552025,2021
+174,Climate Monitoring System,Healthcare,India,2068177,2017
+175,Urban Mobility Project,Transport,Spain,735889,2021
+176,AgriTech Innovation,Space Research,USA,4428799,2023
+177,Urban Mobility Project,Transport,Spain,3863476,2015
+178,Clean Water Initiative,Education,Malaysia,3958074,2020
+179,Urban Mobility Project,Infrastructure,India,3339305,2020
+180,Urban Mobility Project,AI & ML,Thailand,4633462,2021
+181,Smart City Initiative,Transport,Spain,1496961,2018
+182,Smart City Initiative,Education,Germany,1554481,2022
+183,AI Healthcare Platform,Cybersecurity,Brazil,4834068,2016
+184,Climate Monitoring System,Agriculture,Italy,637904,2017
+185,Satellite Communication System,Environment,France,960528,2016
+186,AgriTech Innovation,Space Research,South Korea,4890105,2020
+187,Satellite Communication System,Cybersecurity,Russia,4068997,2023
+188,Clean Water Initiative,Environment,UAE,3633290,2022
+189,Digital Education Drive,AI & ML,France,4698361,2017
+190,Satellite Communication System,Education,Singapore,1756253,2021
+191,Renewable Energy Storage,Agriculture,Japan,4326779,2020
+192,Solar Grid Expansion,Space Research,India,4058288,2022
+193,Urban Mobility Project,Healthcare,Brazil,3636047,2021
+194,Renewable Energy Storage,Technology,Netherlands,1390970,2020
+195,Green Hydrogen Mission,AI & ML,Australia,4602595,2022
+196,Solar Grid Expansion,Environment,France,1727149,2017
+197,Clean Water Initiative,Transport,Spain,4694358,2018
+198,AI Healthcare Platform,AI & ML,South Korea,2766242,2017
+199,AgriTech Innovation,Cybersecurity,Thailand,1936258,2016
+200,Smart City Initiative,Space Research,USA,4616156,2017
+201,Urban Mobility Project,Environment,UAE,4442429,2022
+202,Satellite Communication System,Cybersecurity,Canada,3139920,2016
+203,Cyber Defense Program,Biotechnology,Netherlands,951808,2025
+204,National Data Hub,AI & ML,South Africa,4777415,2016
+205,Renewable Energy Storage,Cybersecurity,Spain,3254060,2018
+206,Green Hydrogen Mission,Energy,Russia,3045767,2018
+207,AI Healthcare Platform,Infrastructure,Australia,1052994,2015
+208,National Data Hub,Education,South Korea,2341669,2021
+209,Urban Mobility Project,Infrastructure,Singapore,730020,2015
+210,Cyber Defense Program,Agriculture,Spain,636431,2024
+211,AgriTech Innovation,Cybersecurity,France,426319,2021
+212,Digital Education Drive,Biotechnology,UAE,1156874,2024
+213,Digital Education Drive,Transport,Germany,1560683,2025
+214,Urban Mobility Project,Technology,Singapore,3027089,2025
+215,Renewable Energy Storage,Infrastructure,Australia,4246680,2018
+216,National Data Hub,Education,Australia,1528041,2023
+217,Smart City Initiative,Education,Australia,4319285,2017
+218,AI Healthcare Platform,Transport,South Africa,538188,2022
+219,Climate Monitoring System,Energy,Singapore,2704015,2021
+220,AI Healthcare Platform,Technology,UAE,3964886,2021
+221,Urban Mobility Project,Technology,Netherlands,1447096,2024
+222,Climate Monitoring System,Environment,Germany,421276,2022
+223,Urban Mobility Project,Cybersecurity,Brazil,3359874,2020
+224,Digital Education Drive,Cybersecurity,Spain,1565280,2019
+225,AgriTech Innovation,Technology,Spain,2052087,2023
+226,Climate Monitoring System,Technology,Japan,449301,2018
+227,AgriTech Innovation,Education,Australia,4497610,2022
+228,Renewable Energy Storage,Energy,Singapore,2286628,2015
+229,Cyber Defense Program,Healthcare,Spain,4737425,2017
+230,Digital Education Drive,Technology,South Korea,4808353,2015
+231,Clean Water Initiative,Healthcare,China,2034763,2022
+232,Smart City Initiative,Space Research,South Korea,3410656,2024
+233,National Data Hub,Space Research,Netherlands,4356681,2025
+234,Satellite Communication System,Space Research,India,576699,2024
+235,AI Healthcare Platform,Biotechnology,Brazil,4025647,2019
+236,Urban Mobility Project,Biotechnology,UAE,3280144,2018
+237,National Data Hub,Biotechnology,UK,3707272,2022
+238,Digital Education Drive,Education,Canada,2232685,2017
+239,Green Hydrogen Mission,Agriculture,Canada,1725915,2019
+240,Smart City Initiative,Technology,Germany,2895647,2025
+241,Green Hydrogen Mission,Energy,Germany,4721149,2022
+242,AgriTech Innovation,Education,South Africa,1470662,2020
+243,AgriTech Innovation,Healthcare,Japan,3802709,2015
+244,AgriTech Innovation,Energy,Spain,2788901,2025
+245,Cyber Defense Program,Education,Thailand,3636469,2020
+246,Solar Grid Expansion,AI & ML,Japan,3660784,2017
+247,Green Hydrogen Mission,Agriculture,Russia,471956,2017
+248,Urban Mobility Project,Education,South Korea,2066222,2023
+249,Green Hydrogen Mission,Space Research,China,2885045,2017
+250,Urban Mobility Project,Biotechnology,Singapore,4040896,2022
+251,Cyber Defense Program,Agriculture,Russia,1368148,2016
+252,Solar Grid Expansion,Transport,Malaysia,2449477,2020
+253,AgriTech Innovation,Infrastructure,Malaysia,895138,2021
+254,National Data Hub,Agriculture,Netherlands,4252859,2017
+255,AgriTech Innovation,Education,Italy,425506,2025
+256,Clean Water Initiative,Education,USA,225945,2025
+257,National Data Hub,Infrastructure,UAE,3856735,2020
+258,Solar Grid Expansion,Infrastructure,France,4827451,2021
+259,Solar Grid Expansion,Education,France,4361108,2019
+260,Climate Monitoring System,Space Research,Thailand,3410051,2015
+261,National Data Hub,Cybersecurity,Brazil,4931072,2019
+262,Solar Grid Expansion,Transport,UK,2475714,2019
+263,Solar Grid Expansion,Cybersecurity,Thailand,4474335,2023
+264,Satellite Communication System,Agriculture,Brazil,1538276,2022
+265,Smart City Initiative,Biotechnology,Australia,1217249,2018
+266,Renewable Energy Storage,Infrastructure,UK,294613,2025
+267,Smart City Initiative,Transport,South Korea,661733,2016
+268,Solar Grid Expansion,Cybersecurity,Brazil,2300272,2023
+269,Digital Education Drive,AI & ML,Thailand,4171436,2025
+270,Smart City Initiative,Healthcare,UAE,1319420,2020
+271,National Data Hub,Energy,Singapore,3254925,2019
+272,Satellite Communication System,Biotechnology,Brazil,508969,2017
+273,Solar Grid Expansion,Space Research,Canada,2266788,2018
+274,Solar Grid Expansion,Agriculture,Australia,2620361,2023
+275,Climate Monitoring System,Technology,Thailand,4422355,2022
+276,National Data Hub,Agriculture,Italy,3099667,2024
+277,Cyber Defense Program,Infrastructure,Japan,1818448,2024
+278,Smart City Initiative,Healthcare,Canada,4739433,2016
+279,Climate Monitoring System,Agriculture,Italy,4544247,2023
+280,National Data Hub,Space Research,Italy,66827,2020
+281,AgriTech Innovation,Education,Netherlands,1989830,2025
+282,Clean Water Initiative,Education,South Africa,1768676,2015
+283,Climate Monitoring System,Healthcare,South Korea,3017854,2017
+284,National Data Hub,Healthcare,UAE,1563219,2023
+285,Solar Grid Expansion,Agriculture,Germany,4923257,2020
+286,Cyber Defense Program,Agriculture,Japan,983760,2018
+287,Digital Education Drive,Healthcare,France,127559,2017
+288,Digital Education Drive,Transport,Australia,2283218,2024
+289,Satellite Communication System,Agriculture,Germany,3574895,2022
+290,Satellite Communication System,Technology,USA,3066464,2021
+291,Renewable Energy Storage,AI & ML,France,4447838,2024
+292,Cyber Defense Program,Technology,Germany,1832822,2023
+293,AI Healthcare Platform,Cybersecurity,UK,3973496,2025
+294,Satellite Communication System,Space Research,Canada,1143210,2016
+295,AI Healthcare Platform,Education,Germany,1190444,2020
+296,Clean Water Initiative,Environment,South Korea,1950712,2025
+297,AI Healthcare Platform,Biotechnology,Germany,4065156,2019
+298,Smart City Initiative,Transport,China,798918,2020
+299,Digital Education Drive,Transport,Italy,4694249,2024
+300,Green Hydrogen Mission,Biotechnology,Malaysia,332309,2023
+301,Green Hydrogen Mission,Biotechnology,Brazil,1600516,2023
+302,Urban Mobility Project,Space Research,Japan,632735,2017
+303,Renewable Energy Storage,AI & ML,UAE,603723,2016
+304,Climate Monitoring System,Education,India,2430213,2016
+305,National Data Hub,Agriculture,Italy,2079764,2022
+306,National Data Hub,Biotechnology,China,1834122,2024
+307,AgriTech Innovation,Agriculture,Brazil,1666921,2023
+308,Urban Mobility Project,Technology,Singapore,1929674,2016
+309,Renewable Energy Storage,Technology,Japan,2656540,2023
+310,Solar Grid Expansion,Agriculture,China,369114,2020
+311,Smart City Initiative,Technology,Brazil,4573115,2023
+312,Clean Water Initiative,Biotechnology,UK,1116904,2020
+313,Clean Water Initiative,Energy,Canada,4191050,2016
+314,Solar Grid Expansion,Environment,South Korea,746704,2018
+315,Green Hydrogen Mission,Education,South Africa,4917759,2018
+316,AgriTech Innovation,Cybersecurity,Australia,4425843,2016
+317,Cyber Defense Program,Energy,Russia,3659706,2023
+318,Urban Mobility Project,Space Research,Italy,4698064,2015
+319,Clean Water Initiative,Agriculture,Netherlands,623912,2016
+320,Urban Mobility Project,AI & ML,France,2024404,2020
+321,Green Hydrogen Mission,Environment,Brazil,4905943,2020
+322,AgriTech Innovation,Technology,South Korea,2993992,2018
+323,Satellite Communication System,Energy,Brazil,1389382,2019
+324,Urban Mobility Project,Space Research,UAE,1494426,2024
+325,Green Hydrogen Mission,Environment,China,172384,2019
+326,Urban Mobility Project,Cybersecurity,France,2446667,2021
+327,Digital Education Drive,Agriculture,Australia,2544330,2020
+328,AI Healthcare Platform,Education,Australia,440426,2018
+329,Satellite Communication System,Biotechnology,UK,3996147,2023
+330,Smart City Initiative,Healthcare,UK,2206585,2022
+331,Digital Education Drive,Healthcare,Italy,1730696,2020
+332,Climate Monitoring System,Agriculture,South Korea,2065979,2017
+333,Urban Mobility Project,Biotechnology,Spain,2966194,2016
+334,National Data Hub,Cybersecurity,South Africa,2628857,2017
+335,Solar Grid Expansion,Transport,South Korea,1526098,2017
+336,Cyber Defense Program,Biotechnology,Australia,3244102,2017
+337,Solar Grid Expansion,Education,Thailand,1859428,2021
+338,Clean Water Initiative,Environment,Spain,772986,2019
+339,AI Healthcare Platform,Space Research,Singapore,1351258,2020
+340,Renewable Energy Storage,Education,UAE,3892848,2016
+341,Digital Education Drive,Technology,Brazil,310932,2023
+342,Urban Mobility Project,Energy,Italy,1431698,2018
+343,Satellite Communication System,Transport,Italy,3584909,2017
+344,Satellite Communication System,Technology,Spain,3692431,2017
+345,AI Healthcare Platform,AI & ML,China,2158529,2017
+346,Renewable Energy Storage,Infrastructure,India,1513335,2018
+347,AI Healthcare Platform,Transport,Spain,1681655,2020
+348,Green Hydrogen Mission,Environment,Japan,4380014,2019
+349,Cyber Defense Program,Agriculture,Thailand,4544737,2016
+350,Cyber Defense Program,Technology,Germany,4044131,2017
+351,Solar Grid Expansion,Biotechnology,Brazil,3654739,2018
+352,Clean Water Initiative,Infrastructure,Russia,3459195,2019
+353,Renewable Energy Storage,Transport,Netherlands,4931869,2023
+354,Solar Grid Expansion,Infrastructure,France,3644685,2021
+355,AI Healthcare Platform,Technology,USA,4707140,2018
+356,Clean Water Initiative,Environment,South Africa,340881,2016
+357,Urban Mobility Project,Healthcare,USA,3197796,2023
+358,Smart City Initiative,Agriculture,Canada,927577,2017
+359,Renewable Energy Storage,Transport,Netherlands,3718974,2016
+360,Green Hydrogen Mission,Environment,Netherlands,2351351,2023
+361,Cyber Defense Program,Education,France,3808308,2016
+362,Smart City Initiative,Healthcare,South Korea,1824763,2016
+363,Clean Water Initiative,Cybersecurity,Australia,679310,2022
+364,Clean Water Initiative,Environment,Germany,4171737,2025
+365,Green Hydrogen Mission,Space Research,China,254066,2025
+366,Urban Mobility Project,Healthcare,Malaysia,4125705,2017
+367,AgriTech Innovation,AI & ML,South Korea,4232118,2024
+368,Green Hydrogen Mission,Cybersecurity,India,1544680,2018
+369,Satellite Communication System,Biotechnology,South Africa,2657748,2022
+370,Green Hydrogen Mission,Energy,China,1324393,2016
+371,Satellite Communication System,Environment,Thailand,4605343,2018
+372,Climate Monitoring System,Biotechnology,Russia,159573,2025
+373,Cyber Defense Program,Agriculture,Thailand,1174204,2023
+374,Solar Grid Expansion,AI & ML,Brazil,2092535,2015
+375,Solar Grid Expansion,Space Research,India,1550500,2021
+376,Digital Education Drive,Space Research,Singapore,117006,2020
+377,AgriTech Innovation,AI & ML,Singapore,823948,2018
+378,Digital Education Drive,Transport,Russia,3191640,2019
+379,Satellite Communication System,Technology,South Korea,4789249,2025
+380,Cyber Defense Program,Energy,UAE,389597,2016
+381,Clean Water Initiative,Cybersecurity,Netherlands,3617202,2021
+382,Digital Education Drive,Biotechnology,Netherlands,67262,2021
+383,Cyber Defense Program,Education,South Africa,3279471,2019
+384,AgriTech Innovation,Technology,India,930621,2018
+385,Urban Mobility Project,Energy,Japan,4051016,2017
+386,Smart City Initiative,Infrastructure,UAE,249733,2015
+387,Green Hydrogen Mission,Education,UAE,2488194,2018
+388,AgriTech Innovation,Cybersecurity,Russia,4681672,2021
+389,AI Healthcare Platform,Healthcare,Japan,2196506,2019
+390,Cyber Defense Program,Energy,UK,1223165,2023
+391,Satellite Communication System,Agriculture,Malaysia,2372795,2018
+392,Satellite Communication System,Environment,Italy,846166,2024
+393,Urban Mobility Project,Energy,China,849885,2017
+394,National Data Hub,Biotechnology,Italy,574827,2024
+395,AI Healthcare Platform,AI & ML,South Korea,103327,2022
+396,Climate Monitoring System,Space Research,Brazil,2715006,2015
+397,Cyber Defense Program,Cybersecurity,Australia,1761213,2016
+398,Cyber Defense Program,Transport,UAE,2092421,2017
+399,Clean Water Initiative,Healthcare,Netherlands,1774379,2015
+400,Smart City Initiative,AI & ML,Thailand,4639338,2017
+401,Renewable Energy Storage,Agriculture,China,1824475,2017
+402,Green Hydrogen Mission,Healthcare,Russia,2709656,2015
+403,Clean Water Initiative,Biotechnology,Malaysia,2871672,2022
+404,Smart City Initiative,Energy,Canada,3505470,2019
+405,National Data Hub,Technology,France,1836794,2017
+406,Climate Monitoring System,Space Research,Germany,965479,2019
+407,Clean Water Initiative,Infrastructure,Canada,4719578,2015
+408,Satellite Communication System,Infrastructure,Malaysia,3294392,2021
+409,Clean Water Initiative,Agriculture,Japan,2746008,2015
+410,Green Hydrogen Mission,Cybersecurity,Singapore,471410,2021
+411,Solar Grid Expansion,AI & ML,Germany,4712870,2016
+412,Cyber Defense Program,Agriculture,Malaysia,2663098,2015
+413,Clean Water Initiative,Environment,Canada,4488412,2021
+414,Urban Mobility Project,Transport,UAE,1751344,2024
+415,Renewable Energy Storage,Education,UAE,393765,2020
+416,Smart City Initiative,Environment,Netherlands,4245709,2022
+417,AgriTech Innovation,Agriculture,Italy,4194564,2025
+418,Climate Monitoring System,AI & ML,Russia,464591,2018
+419,National Data Hub,Energy,Thailand,4661338,2021
+420,Smart City Initiative,Healthcare,Japan,4412962,2025
+421,AgriTech Innovation,Cybersecurity,Italy,2480603,2015
+422,AgriTech Innovation,Agriculture,China,4534298,2018
+423,Green Hydrogen Mission,Biotechnology,Canada,1511665,2023
+424,National Data Hub,Biotechnology,Japan,4106825,2025
+425,Urban Mobility Project,Space Research,Russia,4392539,2020
+426,Renewable Energy Storage,Agriculture,USA,2857936,2015
+427,AgriTech Innovation,Agriculture,USA,393234,2021
+428,Urban Mobility Project,Cybersecurity,Malaysia,2861709,2024
+429,Smart City Initiative,Biotechnology,UAE,1076528,2017
+430,AgriTech Innovation,AI & ML,Malaysia,1954701,2018
+431,Smart City Initiative,Education,India,1100789,2021
+432,Clean Water Initiative,Space Research,South Korea,725971,2021
+433,AgriTech Innovation,Environment,UK,2862131,2020
+434,AgriTech Innovation,Agriculture,Australia,507920,2024
+435,Renewable Energy Storage,Cybersecurity,Malaysia,1450249,2017
+436,AI Healthcare Platform,Education,Singapore,3577711,2019
+437,Renewable Energy Storage,Environment,Malaysia,3771559,2017
+438,Climate Monitoring System,Education,Spain,4721238,2017
+439,Solar Grid Expansion,Education,Malaysia,4404501,2020
+440,Solar Grid Expansion,Healthcare,Spain,982481,2016
+441,Urban Mobility Project,Environment,Netherlands,1942406,2019
+442,Clean Water Initiative,Education,UAE,4568297,2023
+443,AgriTech Innovation,Energy,UK,1125256,2021
+444,Climate Monitoring System,Education,Canada,2443921,2018
+445,Urban Mobility Project,Healthcare,UAE,4406846,2022
+446,Digital Education Drive,Energy,Australia,4651598,2021
+447,Renewable Energy Storage,Technology,Malaysia,2025249,2023
+448,Solar Grid Expansion,Infrastructure,USA,1141298,2017
+449,Renewable Energy Storage,Education,France,1275084,2018
+450,Green Hydrogen Mission,Technology,UK,2826345,2015
+451,Clean Water Initiative,Energy,China,4915603,2025
+452,Cyber Defense Program,AI & ML,Thailand,1785297,2020
+453,Urban Mobility Project,Biotechnology,Netherlands,2328311,2025
+454,Cyber Defense Program,Education,Australia,4931453,2024
+455,AgriTech Innovation,Environment,Malaysia,1665651,2019
+456,Digital Education Drive,Transport,Germany,2021875,2023
+457,Green Hydrogen Mission,Environment,USA,3398333,2019
+458,Smart City Initiative,Environment,Italy,63000,2019
+459,Cyber Defense Program,Biotechnology,Canada,3568855,2025
+460,Digital Education Drive,Biotechnology,Australia,767349,2021
+461,Green Hydrogen Mission,Biotechnology,Australia,4109632,2018
+462,Clean Water Initiative,Education,USA,3046128,2018
+463,Renewable Energy Storage,Healthcare,USA,4673003,2024
+464,AI Healthcare Platform,Environment,Canada,3847579,2018
+465,Urban Mobility Project,Cybersecurity,Singapore,3164084,2018
+466,Climate Monitoring System,Transport,UK,2691673,2017
+467,Renewable Energy Storage,Cybersecurity,Italy,3164798,2022
+468,Clean Water Initiative,Environment,Netherlands,3630315,2019
+469,Urban Mobility Project,Space Research,China,3570746,2022
+470,Climate Monitoring System,Education,UK,1580762,2019
+471,Cyber Defense Program,Technology,UK,3072690,2024
+472,Clean Water Initiative,Technology,Spain,3155577,2017
+473,Green Hydrogen Mission,Biotechnology,Italy,4499932,2016
+474,AgriTech Innovation,Education,Singapore,1713263,2021
+475,Smart City Initiative,Energy,Germany,924351,2017
+476,Urban Mobility Project,Technology,South Africa,457164,2018
+477,Cyber Defense Program,Biotechnology,France,1512983,2018
+478,Smart City Initiative,Transport,Thailand,3563459,2016
+479,AgriTech Innovation,Biotechnology,USA,2423623,2023
+480,Solar Grid Expansion,Environment,Italy,1042562,2019
+481,Satellite Communication System,Energy,Canada,2909042,2024
+482,Urban Mobility Project,Technology,Canada,4602452,2023
+483,Satellite Communication System,Energy,Thailand,2769838,2017
+484,Urban Mobility Project,AI & ML,Russia,782332,2022
+485,National Data Hub,Environment,Singapore,4405834,2020
+486,Solar Grid Expansion,Cybersecurity,China,3663302,2017
+487,National Data Hub,Transport,India,3462111,2023
+488,Cyber Defense Program,Environment,South Korea,871318,2023
+489,Renewable Energy Storage,Infrastructure,Spain,1311953,2020
+490,National Data Hub,Transport,Italy,826969,2020
+491,Cyber Defense Program,Cybersecurity,Thailand,500999,2024
+492,Digital Education Drive,AI & ML,Spain,4374445,2017
+493,Renewable Energy Storage,Space Research,Russia,4051502,2024
+494,Smart City Initiative,AI & ML,India,2138051,2018
+495,Smart City Initiative,Biotechnology,India,3286269,2023
+496,Urban Mobility Project,Transport,France,2405797,2019
+497,AI Healthcare Platform,Space Research,China,2478102,2017
+498,AI Healthcare Platform,Space Research,UK,3246463,2019
+499,Clean Water Initiative,Agriculture,Italy,1318491,2024
+500,Urban Mobility Project,Space Research,Netherlands,473032,2020
+501,Smart City Initiative,Cybersecurity,South Korea,198624,2024
+502,Cyber Defense Program,Cybersecurity,Malaysia,218406,2017
+503,Solar Grid Expansion,Agriculture,Japan,2793867,2022
+504,National Data Hub,AI & ML,China,3369757,2016
+505,Climate Monitoring System,Infrastructure,Canada,2952218,2019
+506,Smart City Initiative,Infrastructure,Malaysia,4319718,2016
+507,Urban Mobility Project,Technology,Russia,866549,2020
+508,Renewable Energy Storage,Technology,Spain,2961060,2016
+509,AI Healthcare Platform,Energy,Malaysia,4376089,2024
+510,Solar Grid Expansion,Energy,France,2724303,2020
+511,Cyber Defense Program,Environment,Germany,3194682,2015
+512,Clean Water Initiative,Cybersecurity,Singapore,1542142,2019
+513,AgriTech Innovation,Space Research,Russia,226765,2020
+514,Clean Water Initiative,AI & ML,UK,4172580,2021
+515,Climate Monitoring System,Space Research,Singapore,3974156,2018
+516,AI Healthcare Platform,Technology,Russia,1963362,2022
+517,Solar Grid Expansion,Transport,Brazil,450037,2019
+518,Urban Mobility Project,AI & ML,Canada,2308840,2021
+519,Renewable Energy Storage,Technology,UK,408477,2017
+520,Urban Mobility Project,Healthcare,South Korea,3076715,2025
+521,Clean Water Initiative,Biotechnology,South Korea,3198071,2015
+522,Cyber Defense Program,Technology,Spain,1969551,2023
+523,Digital Education Drive,AI & ML,Russia,599224,2023
+524,Climate Monitoring System,Energy,UAE,4236433,2017
+525,Clean Water Initiative,Space Research,Thailand,227452,2022
+526,National Data Hub,AI & ML,Russia,4693386,2023
+527,Green Hydrogen Mission,Transport,France,1859980,2023
+528,Clean Water Initiative,Education,UK,3505504,2021
+529,Urban Mobility Project,Agriculture,UAE,4801797,2022
+530,Renewable Energy Storage,Education,Singapore,1339045,2018
+531,Cyber Defense Program,Education,Brazil,2570467,2021
+532,Smart City Initiative,AI & ML,Malaysia,3163788,2022
+533,Green Hydrogen Mission,Infrastructure,UK,4210862,2020
+534,AI Healthcare Platform,AI & ML,China,4006551,2015
+535,Smart City Initiative,Education,Netherlands,2167260,2016
+536,Climate Monitoring System,AI & ML,Netherlands,4291262,2019
+537,Green Hydrogen Mission,Technology,Canada,3596065,2019
+538,Green Hydrogen Mission,Agriculture,France,4770482,2021
+539,Renewable Energy Storage,AI & ML,Spain,89239,2016
+540,AI Healthcare Platform,Transport,Canada,1680922,2017
+541,National Data Hub,AI & ML,Australia,221348,2025
+542,AI Healthcare Platform,Environment,Russia,2660907,2021
+543,Clean Water Initiative,Agriculture,Canada,2936385,2015
+544,Green Hydrogen Mission,Agriculture,India,1220811,2016
+545,Renewable Energy Storage,Technology,Netherlands,3596772,2024
+546,Digital Education Drive,Education,Malaysia,4293100,2021
+547,Clean Water Initiative,Education,UK,3805789,2017
+548,Renewable Energy Storage,Energy,Russia,3438541,2020
+549,AgriTech Innovation,Cybersecurity,India,224954,2017
+550,Satellite Communication System,Healthcare,Germany,2531418,2025
+551,Solar Grid Expansion,Infrastructure,UK,4517004,2021
+552,National Data Hub,Agriculture,Germany,4188694,2022
+553,Climate Monitoring System,Cybersecurity,Italy,4797299,2018
+554,Satellite Communication System,Space Research,Germany,2096142,2020
+555,Urban Mobility Project,AI & ML,Singapore,2336301,2016
+556,Clean Water Initiative,Infrastructure,Italy,1075644,2016
+557,AI Healthcare Platform,Healthcare,Malaysia,2042140,2015
+558,Cyber Defense Program,Energy,Netherlands,3043948,2020
+559,AgriTech Innovation,Energy,China,302647,2019
+560,National Data Hub,Technology,UK,2382194,2023
+561,Urban Mobility Project,Transport,Germany,3350530,2017
+562,Cyber Defense Program,Infrastructure,China,1220873,2025
+563,National Data Hub,Biotechnology,Malaysia,992087,2024
+564,Green Hydrogen Mission,Infrastructure,Russia,3086254,2018
+565,Smart City Initiative,Energy,Thailand,3099732,2016
+566,Urban Mobility Project,Infrastructure,UK,4686277,2023
+567,Clean Water Initiative,Energy,Australia,2874867,2020
+568,Renewable Energy Storage,AI & ML,Germany,2163310,2025
+569,AI Healthcare Platform,Healthcare,France,2525818,2018
+570,Digital Education Drive,Cybersecurity,Australia,1470777,2016
+571,Renewable Energy Storage,Space Research,Italy,891786,2017
+572,Clean Water Initiative,Biotechnology,Spain,1757617,2017
+573,Digital Education Drive,Cybersecurity,Canada,4972137,2023
+574,Clean Water Initiative,Transport,Spain,957159,2023
+575,National Data Hub,Infrastructure,France,4111883,2024
+576,AI Healthcare Platform,Healthcare,South Africa,490798,2023
+577,Renewable Energy Storage,Environment,Thailand,1942722,2016
+578,Climate Monitoring System,Biotechnology,South Korea,2620204,2022
+579,AI Healthcare Platform,Education,UK,270375,2018
+580,Cyber Defense Program,Space Research,USA,3275803,2023
+581,Climate Monitoring System,Education,France,900454,2015
+582,Renewable Energy Storage,Environment,Italy,337110,2025
+583,AI Healthcare Platform,Biotechnology,India,2542678,2016
+584,National Data Hub,AI & ML,South Korea,2085642,2023
+585,Clean Water Initiative,Infrastructure,Australia,126818,2016
+586,Smart City Initiative,Space Research,South Africa,473991,2016
+587,Climate Monitoring System,Biotechnology,India,174661,2025
+588,Digital Education Drive,Technology,China,773633,2024
+589,AgriTech Innovation,Environment,Russia,2804553,2015
+590,Smart City Initiative,Biotechnology,Malaysia,1554137,2023
+591,Green Hydrogen Mission,Biotechnology,Canada,2519057,2017
+592,Clean Water Initiative,Energy,India,3170717,2021
+593,Cyber Defense Program,Space Research,UK,3761630,2022
+594,Green Hydrogen Mission,Environment,UAE,3556072,2022
+595,AI Healthcare Platform,Cybersecurity,Canada,4861337,2017
+596,Smart City Initiative,Biotechnology,Spain,3130437,2020
+597,Renewable Energy Storage,Healthcare,Germany,1591945,2018
+598,Satellite Communication System,AI & ML,Australia,4339965,2022
+599,AI Healthcare Platform,Infrastructure,UK,3249945,2020
+600,National Data Hub,Energy,China,2425355,2024
+601,Cyber Defense Program,Agriculture,Japan,1659170,2015
+602,Climate Monitoring System,Technology,South Korea,3353336,2015
+603,Clean Water Initiative,Infrastructure,Netherlands,1472736,2022
+604,Urban Mobility Project,Space Research,India,4057285,2021
+605,National Data Hub,Transport,Japan,1848940,2015
+606,Urban Mobility Project,Environment,Brazil,3840114,2021
+607,Urban Mobility Project,Agriculture,Netherlands,2062552,2015
+608,Climate Monitoring System,Education,China,1161942,2016
+609,Green Hydrogen Mission,Agriculture,UAE,3272847,2025
+610,Clean Water Initiative,Space Research,Australia,547867,2021
+611,Satellite Communication System,Space Research,Singapore,4804242,2022
+612,AI Healthcare Platform,Energy,Singapore,3386276,2024
+613,Clean Water Initiative,Environment,USA,434902,2016
+614,AgriTech Innovation,Transport,India,3683891,2019
+615,National Data Hub,Transport,France,1602744,2018
+616,Digital Education Drive,Space Research,Spain,4951687,2021
+617,Renewable Energy Storage,Agriculture,Australia,3068858,2025
+618,Climate Monitoring System,Technology,UAE,3018581,2019
+619,Cyber Defense Program,Energy,South Korea,2344153,2025
+620,AI Healthcare Platform,Energy,Brazil,52313,2023
+621,Green Hydrogen Mission,Energy,Russia,4378728,2023
+622,Smart City Initiative,Cybersecurity,UK,3977345,2024
+623,Cyber Defense Program,AI & ML,Spain,3102366,2016
+624,Green Hydrogen Mission,Healthcare,Japan,375459,2022
+625,Renewable Energy Storage,Education,Brazil,4617623,2024
+626,Climate Monitoring System,Energy,Japan,1078657,2016
+627,Green Hydrogen Mission,Cybersecurity,Thailand,3225161,2024
+628,AgriTech Innovation,Biotechnology,Netherlands,4330930,2017
+629,Urban Mobility Project,AI & ML,Canada,2914271,2023
+630,Clean Water Initiative,Healthcare,Japan,221206,2024
+631,Satellite Communication System,Cybersecurity,USA,2540941,2018
+632,Clean Water Initiative,Environment,Spain,2088828,2022
+633,Solar Grid Expansion,Space Research,Germany,751819,2019
+634,AI Healthcare Platform,Education,Australia,1089980,2022
+635,Satellite Communication System,Space Research,UK,1488392,2021
+636,Green Hydrogen Mission,Energy,South Africa,1848447,2015
+637,Solar Grid Expansion,Agriculture,South Africa,2431023,2025
+638,Satellite Communication System,Infrastructure,Singapore,4071619,2020
+639,Renewable Energy Storage,AI & ML,Canada,2086182,2015
+640,Cyber Defense Program,Biotechnology,USA,1843910,2025
+641,AI Healthcare Platform,Transport,Singapore,86766,2021
+642,Digital Education Drive,Space Research,Australia,1710782,2017
+643,AI Healthcare Platform,AI & ML,Germany,4197387,2021
+644,National Data Hub,Space Research,Thailand,2552099,2021
+645,National Data Hub,Infrastructure,UAE,927288,2021
+646,Renewable Energy Storage,Education,Japan,4986062,2016
+647,National Data Hub,Agriculture,South Korea,3831271,2018
+648,AgriTech Innovation,Space Research,Russia,1544684,2020
+649,Smart City Initiative,Education,Australia,160085,2024
+650,Climate Monitoring System,Space Research,UK,410938,2016
+651,Green Hydrogen Mission,Biotechnology,South Africa,446541,2015
+652,Smart City Initiative,Technology,Japan,2511849,2023
+653,AI Healthcare Platform,Environment,India,225839,2018
+654,AgriTech Innovation,Agriculture,Brazil,2252853,2015
+655,AgriTech Innovation,AI & ML,Spain,4567516,2018
+656,National Data Hub,Technology,Malaysia,345217,2020
+657,Cyber Defense Program,Agriculture,Canada,3196447,2018
+658,Climate Monitoring System,Cybersecurity,UK,4295799,2018
+659,Solar Grid Expansion,Cybersecurity,Netherlands,982937,2016
+660,Climate Monitoring System,Biotechnology,UAE,1791998,2023
+661,Digital Education Drive,Space Research,Germany,983788,2020
+662,AgriTech Innovation,AI & ML,Italy,4149972,2022
+663,Cyber Defense Program,Technology,South Africa,2343324,2022
+664,Renewable Energy Storage,Space Research,Netherlands,2885033,2022
+665,Clean Water Initiative,Biotechnology,Singapore,3486858,2018
+666,Climate Monitoring System,Transport,Netherlands,1894228,2024
+667,Smart City Initiative,Space Research,France,617653,2017
+668,Cyber Defense Program,AI & ML,Canada,2327895,2024
+669,Climate Monitoring System,Environment,Brazil,1861999,2017
+670,Smart City Initiative,Environment,Spain,999255,2019
+671,Urban Mobility Project,Infrastructure,Germany,370014,2025
+672,Digital Education Drive,Space Research,Malaysia,3882173,2015
+673,Solar Grid Expansion,Environment,Italy,4987082,2017
+674,Climate Monitoring System,Cybersecurity,Japan,1758460,2016
+675,AgriTech Innovation,Agriculture,Japan,1422783,2015
+676,Renewable Energy Storage,Space Research,UAE,257095,2025
+677,Climate Monitoring System,Healthcare,Spain,3334841,2021
+678,AgriTech Innovation,Biotechnology,Japan,621684,2019
+679,AgriTech Innovation,AI & ML,Brazil,1496661,2021
+680,AgriTech Innovation,Biotechnology,USA,4144224,2025
+681,Smart City Initiative,Environment,South Africa,3771191,2016
+682,Solar Grid Expansion,Space Research,Spain,529815,2024
+683,Cyber Defense Program,Healthcare,UAE,223853,2016
+684,AI Healthcare Platform,Biotechnology,France,4392081,2024
+685,Clean Water Initiative,Transport,USA,1180989,2025
+686,National Data Hub,Technology,Canada,161488,2019
+687,Digital Education Drive,Biotechnology,Spain,1577660,2016
+688,AI Healthcare Platform,Environment,Brazil,856726,2017
+689,Renewable Energy Storage,Space Research,India,166126,2016
+690,Digital Education Drive,Infrastructure,India,3266685,2020
+691,Urban Mobility Project,Agriculture,France,1948290,2025
+692,Climate Monitoring System,Biotechnology,South Korea,592198,2023
+693,Climate Monitoring System,Infrastructure,Singapore,4511317,2018
+694,Smart City Initiative,Biotechnology,UK,1446339,2023
+695,Solar Grid Expansion,Energy,Japan,2890793,2024
+696,Solar Grid Expansion,Space Research,Australia,4803158,2017
+697,Satellite Communication System,Technology,Australia,3855746,2023
+698,Clean Water Initiative,Space Research,Spain,889131,2020
+699,Cyber Defense Program,Agriculture,Australia,2727965,2021
+700,AI Healthcare Platform,Infrastructure,Brazil,2467248,2023
+701,AI Healthcare Platform,Energy,Russia,1712832,2024
+702,AgriTech Innovation,Transport,Japan,1990775,2025
+703,Solar Grid Expansion,Healthcare,Spain,4838317,2020
+704,Solar Grid Expansion,Space Research,Germany,331245,2024
+705,Green Hydrogen Mission,Biotechnology,Germany,769216,2022
+706,Renewable Energy Storage,Cybersecurity,Thailand,2258808,2025
+707,Digital Education Drive,Transport,USA,4996858,2025
+708,Digital Education Drive,Agriculture,China,296306,2021
+709,Smart City Initiative,Biotechnology,Malaysia,3674606,2020
+710,Digital Education Drive,Agriculture,UAE,2139023,2018
+711,Renewable Energy Storage,Environment,China,3191511,2015
+712,Urban Mobility Project,Environment,Russia,3385056,2015
+713,Clean Water Initiative,Energy,Russia,3006456,2025
+714,Smart City Initiative,Education,UK,486508,2022
+715,Cyber Defense Program,Transport,India,3276751,2016
+716,Renewable Energy Storage,Infrastructure,Spain,3391577,2018
+717,Cyber Defense Program,Healthcare,Italy,363278,2020
+718,Renewable Energy Storage,Biotechnology,Singapore,3806014,2018
+719,National Data Hub,Infrastructure,Germany,1607834,2018
+720,National Data Hub,Education,South Africa,4497387,2018
+721,Renewable Energy Storage,Agriculture,South Korea,1165674,2022
+722,Urban Mobility Project,Healthcare,Germany,491339,2020
+723,Cyber Defense Program,Education,Russia,3063441,2015
+724,AgriTech Innovation,Cybersecurity,Brazil,2897819,2021
+725,Clean Water Initiative,Energy,Thailand,3416401,2024
+726,National Data Hub,AI & ML,Spain,2723263,2025
+727,National Data Hub,Infrastructure,Thailand,1420769,2023
+728,National Data Hub,Infrastructure,India,4769448,2015
+729,Climate Monitoring System,Healthcare,Russia,2914652,2019
+730,Clean Water Initiative,Cybersecurity,Russia,4665446,2025
+731,Solar Grid Expansion,Agriculture,Malaysia,4210307,2025
+732,Cyber Defense Program,Environment,India,1067042,2015
+733,Solar Grid Expansion,Biotechnology,India,2355676,2020
+734,Digital Education Drive,Healthcare,Australia,2987527,2015
+735,AI Healthcare Platform,Education,Germany,4282778,2021
+736,Renewable Energy Storage,Cybersecurity,India,4993732,2015
+737,Digital Education Drive,Biotechnology,Netherlands,859521,2018
+738,Green Hydrogen Mission,Transport,Canada,2931677,2021
+739,Urban Mobility Project,Energy,Australia,1882333,2015
+740,AgriTech Innovation,Education,South Korea,3020019,2015
+741,Climate Monitoring System,Energy,UK,2632340,2018
+742,Renewable Energy Storage,Agriculture,China,297644,2022
+743,Solar Grid Expansion,Biotechnology,Brazil,3089890,2015
+744,Smart City Initiative,Infrastructure,Germany,4627647,2020
+745,AgriTech Innovation,Education,USA,3029076,2019
+746,Climate Monitoring System,Energy,UK,3991275,2020
+747,Renewable Energy Storage,Energy,South Africa,3168695,2020
+748,Climate Monitoring System,Infrastructure,Singapore,1109735,2017
+749,Satellite Communication System,Education,France,4958139,2017
+750,Solar Grid Expansion,Healthcare,UK,684920,2020
+751,Digital Education Drive,Infrastructure,UAE,3513013,2015
+752,National Data Hub,Biotechnology,Australia,1222352,2016
+753,AgriTech Innovation,Infrastructure,Australia,2969259,2025
+754,Cyber Defense Program,Transport,India,3811457,2021
+755,Digital Education Drive,Healthcare,UK,1440398,2025
+756,Green Hydrogen Mission,Infrastructure,Italy,1844262,2022
+757,Urban Mobility Project,Space Research,Netherlands,2565137,2022
+758,AI Healthcare Platform,Transport,Germany,4932444,2017
+759,Climate Monitoring System,Agriculture,Singapore,4080751,2020
+760,Clean Water Initiative,Agriculture,USA,2502337,2018
+761,Renewable Energy Storage,Infrastructure,South Korea,3256010,2021
+762,Clean Water Initiative,Cybersecurity,USA,818756,2022
+763,Clean Water Initiative,Transport,UAE,1193640,2019
+764,Urban Mobility Project,Space Research,Netherlands,1110395,2025
+765,AgriTech Innovation,Technology,UK,775603,2016
+766,Digital Education Drive,Space Research,Canada,4421011,2020
+767,Solar Grid Expansion,Environment,UAE,2868368,2023
+768,Renewable Energy Storage,Technology,Netherlands,3824602,2018
+769,Solar Grid Expansion,Environment,Netherlands,3027271,2018
+770,National Data Hub,Education,UK,1742636,2022
+771,Solar Grid Expansion,Agriculture,South Korea,191665,2020
+772,AgriTech Innovation,Transport,Netherlands,631672,2020
+773,AgriTech Innovation,Environment,Canada,648022,2025
+774,Climate Monitoring System,Biotechnology,UK,2794620,2018
+775,Climate Monitoring System,Healthcare,Russia,3193202,2024
+776,Urban Mobility Project,Infrastructure,Germany,2127870,2023
+777,Climate Monitoring System,Education,China,806071,2019
+778,Clean Water Initiative,Technology,India,364308,2022
+779,Digital Education Drive,Infrastructure,UAE,4419972,2022
+780,Renewable Energy Storage,Space Research,Japan,3408825,2024
+781,Green Hydrogen Mission,Biotechnology,UAE,972343,2018
+782,Climate Monitoring System,Space Research,Japan,2066185,2017
+783,Solar Grid Expansion,Infrastructure,France,1800514,2022
+784,Clean Water Initiative,Infrastructure,Australia,1533595,2018
+785,Green Hydrogen Mission,Biotechnology,South Africa,1763515,2018
+786,Digital Education Drive,Agriculture,France,3629560,2021
+787,AI Healthcare Platform,AI & ML,Singapore,2755875,2022
+788,Cyber Defense Program,Education,Brazil,4410155,2019
+789,Green Hydrogen Mission,Infrastructure,Canada,3757672,2019
+790,Climate Monitoring System,Environment,Brazil,2865545,2023
+791,Digital Education Drive,Biotechnology,Brazil,4911489,2023
+792,Satellite Communication System,Cybersecurity,Brazil,800412,2022
+793,Clean Water Initiative,Agriculture,Russia,2859737,2016
+794,Smart City Initiative,Biotechnology,South Africa,1816496,2022
+795,National Data Hub,Technology,Singapore,1494454,2016
+796,Digital Education Drive,Cybersecurity,India,4981073,2020
+797,Clean Water Initiative,Education,China,2710501,2017
+798,Cyber Defense Program,Education,China,2644381,2025
+799,National Data Hub,Technology,China,1021634,2017
+800,Satellite Communication System,Cybersecurity,Japan,421040,2023
+801,Smart City Initiative,Environment,Italy,4701689,2017
+802,National Data Hub,Healthcare,Spain,4363183,2022
+803,Climate Monitoring System,Biotechnology,Thailand,693479,2018
+804,Green Hydrogen Mission,Space Research,Japan,4269761,2021
+805,Urban Mobility Project,Cybersecurity,China,3675343,2016
+806,AI Healthcare Platform,Cybersecurity,Russia,4758003,2015
+807,AI Healthcare Platform,Technology,UAE,1903497,2018
+808,Solar Grid Expansion,Technology,Canada,694532,2022
+809,National Data Hub,Education,South Korea,2531815,2015
+810,AI Healthcare Platform,Biotechnology,Spain,115114,2019
+811,Green Hydrogen Mission,Space Research,South Korea,1672452,2022
+812,Digital Education Drive,Transport,Italy,1939163,2020
+813,Satellite Communication System,Healthcare,South Africa,574050,2021
+814,Solar Grid Expansion,Infrastructure,Germany,3289085,2023
+815,National Data Hub,Agriculture,Germany,2715061,2018
+816,AgriTech Innovation,Cybersecurity,Brazil,4097832,2015
+817,Smart City Initiative,Energy,Netherlands,193496,2024
+818,Climate Monitoring System,Agriculture,France,1331065,2021
+819,Clean Water Initiative,Agriculture,Malaysia,1072377,2017
+820,Digital Education Drive,Environment,China,209987,2019
+821,Climate Monitoring System,Energy,USA,448237,2017
+822,Digital Education Drive,Healthcare,UAE,3006978,2019
+823,Green Hydrogen Mission,Healthcare,Canada,4725550,2025
+824,Digital Education Drive,AI & ML,China,2862946,2015
+825,National Data Hub,Cybersecurity,UAE,3460695,2018
+826,Green Hydrogen Mission,Agriculture,Netherlands,1085029,2020
+827,Urban Mobility Project,Education,South Korea,357394,2025
+828,National Data Hub,Healthcare,Singapore,4724521,2021
+829,Clean Water Initiative,Space Research,Malaysia,3211633,2025
+830,Satellite Communication System,Environment,Japan,1949811,2017
+831,National Data Hub,Infrastructure,Spain,4265526,2021
+832,Climate Monitoring System,Space Research,Australia,3659030,2017
+833,AI Healthcare Platform,AI & ML,Brazil,4411493,2025
+834,Green Hydrogen Mission,Environment,UK,3630495,2020
+835,Solar Grid Expansion,Technology,Brazil,3949265,2019
+836,Cyber Defense Program,Education,UAE,1626120,2020
+837,Urban Mobility Project,Cybersecurity,China,4869654,2020
+838,Green Hydrogen Mission,Space Research,USA,1100351,2023
+839,Smart City Initiative,Transport,Malaysia,1089531,2019
+840,AI Healthcare Platform,Technology,Australia,4898215,2020
+841,Cyber Defense Program,Cybersecurity,France,4110331,2025
+842,Climate Monitoring System,Environment,India,3585220,2019
+843,Urban Mobility Project,Energy,Singapore,2604953,2015
+844,Satellite Communication System,Education,France,4949227,2020
+845,Satellite Communication System,Agriculture,India,997140,2020
+846,Cyber Defense Program,Healthcare,Germany,4418382,2024
+847,Cyber Defense Program,Technology,South Korea,458396,2025
+848,Smart City Initiative,Healthcare,South Africa,1383169,2021
+849,Cyber Defense Program,Cybersecurity,China,1733307,2023
+850,Climate Monitoring System,Cybersecurity,Italy,1920903,2018
+851,National Data Hub,Cybersecurity,UAE,2402842,2021
+852,AgriTech Innovation,Infrastructure,Thailand,917936,2020
+853,Satellite Communication System,Environment,South Africa,194225,2016
+854,Digital Education Drive,AI & ML,Netherlands,3904137,2025
+855,National Data Hub,Space Research,Australia,1079413,2019
+856,Smart City Initiative,Agriculture,Australia,1180663,2023
+857,Green Hydrogen Mission,Infrastructure,Russia,1600766,2015
+858,Green Hydrogen Mission,Space Research,Germany,322891,2018
+859,Solar Grid Expansion,Healthcare,USA,1565596,2025
+860,AgriTech Innovation,Technology,Australia,4814850,2015
+861,Cyber Defense Program,Environment,China,4351865,2016
+862,Climate Monitoring System,Transport,Italy,294508,2025
+863,Satellite Communication System,Infrastructure,France,2261120,2020
+864,National Data Hub,Agriculture,Germany,3113644,2018
+865,AgriTech Innovation,Energy,Russia,184845,2019
+866,Renewable Energy Storage,Healthcare,Australia,2536625,2015
+867,Clean Water Initiative,Agriculture,South Africa,1412166,2025
+868,Climate Monitoring System,Space Research,China,1210984,2023
+869,Digital Education Drive,AI & ML,USA,760238,2022
+870,Cyber Defense Program,Energy,Australia,1647201,2023
+871,Green Hydrogen Mission,Infrastructure,Brazil,4155326,2019
+872,Urban Mobility Project,Biotechnology,Russia,4876895,2023
+873,Digital Education Drive,Space Research,China,109049,2020
+874,Clean Water Initiative,Environment,Canada,4141090,2023
+875,Green Hydrogen Mission,Biotechnology,Russia,3141734,2024
+876,Satellite Communication System,Healthcare,USA,3860789,2020
+877,Renewable Energy Storage,Technology,Italy,4633271,2023
+878,National Data Hub,Environment,South Korea,726854,2025
+879,AgriTech Innovation,Cybersecurity,China,4422741,2023
+880,Urban Mobility Project,Healthcare,USA,338843,2022
+881,Urban Mobility Project,Technology,India,2741630,2021
+882,Renewable Energy Storage,Environment,USA,3953222,2021
+883,National Data Hub,Biotechnology,Malaysia,1248274,2016
+884,AI Healthcare Platform,Cybersecurity,UK,603092,2020
+885,AgriTech Innovation,Biotechnology,France,1694530,2015
+886,Digital Education Drive,Healthcare,Italy,1649712,2020
+887,Renewable Energy Storage,AI & ML,USA,1266878,2022
+888,Renewable Energy Storage,Environment,India,4472768,2022
+889,AgriTech Innovation,Healthcare,Netherlands,3566923,2020
+890,Climate Monitoring System,Energy,France,1928076,2025
+891,Renewable Energy Storage,Biotechnology,Malaysia,4084959,2018
+892,National Data Hub,AI & ML,Canada,585835,2022
+893,Urban Mobility Project,Technology,Brazil,322019,2024
+894,National Data Hub,Technology,Russia,3483646,2018
+895,Clean Water Initiative,Healthcare,South Korea,70058,2018
+896,AgriTech Innovation,Environment,Russia,2369750,2023
+897,AI Healthcare Platform,Energy,UK,4042597,2020
+898,Climate Monitoring System,Agriculture,Spain,1654535,2017
+899,Urban Mobility Project,Education,Thailand,363258,2016
+900,Renewable Energy Storage,Infrastructure,Canada,2935455,2015
+901,National Data Hub,Space Research,UAE,153599,2017
+902,Cyber Defense Program,Space Research,Malaysia,655592,2016
+903,AgriTech Innovation,Education,Brazil,2131682,2021
+904,Renewable Energy Storage,Cybersecurity,Australia,3424060,2016
+905,Green Hydrogen Mission,Cybersecurity,Canada,254447,2015
+906,Renewable Energy Storage,Energy,Thailand,2071869,2025
+907,Clean Water Initiative,Energy,UAE,3008188,2016
+908,AI Healthcare Platform,Infrastructure,Spain,2022269,2017
+909,Clean Water Initiative,Technology,Russia,2196651,2016
+910,Satellite Communication System,Agriculture,Russia,3020978,2018
+911,National Data Hub,Agriculture,Brazil,4722989,2018
+912,Clean Water Initiative,Agriculture,South Africa,730996,2024
+913,Satellite Communication System,Cybersecurity,Italy,926760,2015
+914,Satellite Communication System,Education,Malaysia,1666470,2023
+915,Satellite Communication System,Agriculture,Malaysia,557343,2025
+916,Climate Monitoring System,Space Research,Japan,2728550,2022
+917,Green Hydrogen Mission,Transport,Netherlands,4562875,2016
+918,National Data Hub,Healthcare,India,87234,2022
+919,Climate Monitoring System,Environment,Canada,3380400,2017
+920,AI Healthcare Platform,Energy,South Korea,4391974,2020
+921,Smart City Initiative,Transport,South Korea,4698029,2020
+922,Renewable Energy Storage,Agriculture,Australia,4001451,2021
+923,Solar Grid Expansion,Environment,France,3724578,2016
+924,Green Hydrogen Mission,Healthcare,Spain,2239406,2019
+925,Cyber Defense Program,Infrastructure,Canada,2207752,2025
+926,AgriTech Innovation,Agriculture,Spain,651694,2017
+927,Green Hydrogen Mission,Healthcare,South Korea,4833064,2018
+928,Digital Education Drive,Technology,Germany,345298,2024
+929,National Data Hub,Cybersecurity,Brazil,856760,2024
+930,Satellite Communication System,Agriculture,Italy,4244294,2025
+931,Satellite Communication System,AI & ML,Australia,3602734,2022
+932,Satellite Communication System,AI & ML,India,4062654,2019
+933,Clean Water Initiative,Cybersecurity,Thailand,2405595,2018
+934,Renewable Energy Storage,Healthcare,UK,2850718,2020
+935,AI Healthcare Platform,Agriculture,Japan,1152501,2021
+936,Cyber Defense Program,Technology,Thailand,3490947,2023
+937,Green Hydrogen Mission,AI & ML,Malaysia,3622168,2017
+938,Renewable Energy Storage,Cybersecurity,France,621835,2022
+939,AI Healthcare Platform,Infrastructure,Italy,3915341,2025
+940,Green Hydrogen Mission,Agriculture,UK,1138259,2018
+941,Solar Grid Expansion,Space Research,South Korea,3281555,2023
+942,Smart City Initiative,Biotechnology,Italy,2981331,2025
+943,Digital Education Drive,Environment,Brazil,4075024,2020
+944,Satellite Communication System,Healthcare,Netherlands,4515916,2024
+945,Urban Mobility Project,Agriculture,Thailand,2261219,2017
+946,Digital Education Drive,Space Research,Canada,2221976,2015
+947,Satellite Communication System,Healthcare,Malaysia,1647013,2024
+948,Climate Monitoring System,Biotechnology,Spain,2764482,2015
+949,Solar Grid Expansion,Technology,UK,2301470,2015
+950,Digital Education Drive,Technology,South Korea,3513274,2019
+951,Clean Water Initiative,Infrastructure,Thailand,2798633,2021
+952,National Data Hub,Healthcare,South Africa,4728290,2016
+953,Green Hydrogen Mission,Technology,China,1018035,2021
+954,Cyber Defense Program,Energy,Japan,2011177,2024
+955,Digital Education Drive,Energy,UK,832487,2023
+956,Green Hydrogen Mission,Environment,China,2423916,2018
+957,Green Hydrogen Mission,Environment,Brazil,837409,2019
+958,Digital Education Drive,Cybersecurity,South Korea,3607346,2019
+959,Cyber Defense Program,Infrastructure,Thailand,3767052,2022
+960,AgriTech Innovation,Space Research,Thailand,1305470,2022
+961,Climate Monitoring System,Infrastructure,USA,2283951,2019
+962,AI Healthcare Platform,Education,Italy,1520465,2024
+963,Digital Education Drive,Biotechnology,Malaysia,499831,2016
+964,Cyber Defense Program,Technology,Italy,3567331,2025
+965,Solar Grid Expansion,Biotechnology,Spain,1290591,2015
+966,Clean Water Initiative,Energy,Australia,685123,2016
+967,Clean Water Initiative,Transport,Russia,1363399,2020
+968,Digital Education Drive,Agriculture,Australia,3184456,2015
+969,Digital Education Drive,Biotechnology,Brazil,4588380,2017
+970,Digital Education Drive,Energy,Canada,512658,2017
+971,AgriTech Innovation,Agriculture,China,3462838,2021
+972,Climate Monitoring System,Environment,Malaysia,1180294,2025
+973,National Data Hub,Infrastructure,Australia,4745860,2020
+974,Smart City Initiative,Technology,China,4987810,2016
+975,Smart City Initiative,Healthcare,South Africa,1564939,2017
+976,Urban Mobility Project,Healthcare,Italy,3543070,2018
+977,Smart City Initiative,Technology,UAE,423146,2020
+978,Digital Education Drive,Cybersecurity,France,4117432,2018
+979,Smart City Initiative,Healthcare,India,4559814,2020
+980,Clean Water Initiative,AI & ML,Germany,4043052,2024
+981,AgriTech Innovation,Healthcare,Spain,774458,2015
+982,National Data Hub,Technology,Japan,2984166,2019
+983,Climate Monitoring System,Infrastructure,Australia,426577,2022
+984,AI Healthcare Platform,Infrastructure,France,3565634,2025
+985,AgriTech Innovation,Education,Australia,456585,2018
+986,Climate Monitoring System,Cybersecurity,Russia,4505193,2016
+987,Smart City Initiative,Space Research,South Africa,551640,2022
+988,Digital Education Drive,Technology,Singapore,4108433,2021
+989,Green Hydrogen Mission,Space Research,Spain,60165,2024
+990,Green Hydrogen Mission,Energy,Thailand,2371234,2025
+991,Renewable Energy Storage,Transport,Spain,1564366,2024
+992,Digital Education Drive,Transport,Singapore,2855477,2019
+993,National Data Hub,Transport,UAE,2858586,2022
+994,AI Healthcare Platform,Biotechnology,India,3614456,2022
+995,Solar Grid Expansion,Energy,Spain,1682469,2025
+996,AI Healthcare Platform,Transport,Germany,3763990,2021
+997,National Data Hub,Infrastructure,Thailand,3764134,2019
+998,Satellite Communication System,Healthcare,South Korea,1229518,2023
+999,Smart City Initiative,Biotechnology,USA,1318823,2019
+1000,Clean Water Initiative,Agriculture,Australia,1131911,2020

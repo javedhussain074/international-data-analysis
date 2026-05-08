@@ -1,0 +1,1001 @@
+id,country,visit_type,year,visitors
+1,France,India to Abroad,2019,16149
+2,India,India to Abroad,2016,44448
+3,South Africa,India to Abroad,2024,27751
+4,UK,India to Abroad,2016,14428
+5,India,India to Abroad,2023,13131
+6,South Africa,Foreign to India,2018,29539
+7,Thailand,Foreign to India,2015,49829
+8,Australia,Foreign to India,2020,18310
+9,Japan,India to Abroad,2020,6798
+10,Germany,Foreign to India,2016,23626
+11,Singapore,Foreign to India,2015,47923
+12,South Korea,India to Abroad,2021,5264
+13,South Africa,Foreign to India,2025,40635
+14,Singapore,India to Abroad,2016,3103
+15,India,Foreign to India,2016,15356
+16,France,Foreign to India,2019,29814
+17,Singapore,India to Abroad,2020,23383
+18,Canada,Foreign to India,2025,42569
+19,Germany,India to Abroad,2023,47884
+20,India,India to Abroad,2022,24967
+21,China,India to Abroad,2025,21352
+22,UK,India to Abroad,2015,20773
+23,Russia,Foreign to India,2016,13926
+24,Thailand,Foreign to India,2018,43054
+25,Spain,Foreign to India,2025,30171
+26,Japan,Foreign to India,2017,16262
+27,South Africa,Foreign to India,2024,28177
+28,Thailand,Foreign to India,2020,14473
+29,Japan,Foreign to India,2016,49630
+30,UK,India to Abroad,2017,41220
+31,Australia,Foreign to India,2024,4263
+32,Russia,Foreign to India,2024,30774
+33,Netherlands,Foreign to India,2023,852
+34,France,Foreign to India,2025,22393
+35,France,Foreign to India,2021,10465
+36,South Korea,India to Abroad,2019,32906
+37,Australia,India to Abroad,2025,19658
+38,Netherlands,India to Abroad,2017,24604
+39,Australia,India to Abroad,2024,21343
+40,Spain,India to Abroad,2016,23888
+41,Brazil,India to Abroad,2015,15885
+42,Thailand,India to Abroad,2016,48066
+43,Spain,India to Abroad,2023,8341
+44,Japan,Foreign to India,2023,10921
+45,China,Foreign to India,2018,35443
+46,Canada,Foreign to India,2021,44119
+47,Singapore,Foreign to India,2023,29688
+48,France,India to Abroad,2018,4296
+49,UAE,India to Abroad,2024,36401
+50,India,India to Abroad,2015,4752
+51,UK,India to Abroad,2016,2158
+52,UAE,India to Abroad,2023,15697
+53,China,Foreign to India,2018,35439
+54,Japan,Foreign to India,2018,31096
+55,Italy,India to Abroad,2016,6452
+56,Italy,Foreign to India,2021,27041
+57,South Korea,India to Abroad,2025,42924
+58,France,India to Abroad,2021,47824
+59,UAE,India to Abroad,2018,12656
+60,Canada,Foreign to India,2017,27748
+61,Australia,Foreign to India,2022,16471
+62,Germany,Foreign to India,2023,6516
+63,UK,India to Abroad,2016,49485
+64,India,India to Abroad,2021,31926
+65,Spain,India to Abroad,2021,3942
+66,Australia,Foreign to India,2015,25686
+67,China,Foreign to India,2019,27822
+68,South Africa,Foreign to India,2017,12545
+69,Brazil,India to Abroad,2015,38057
+70,South Africa,India to Abroad,2020,3846
+71,UK,Foreign to India,2023,34907
+72,Australia,India to Abroad,2023,5350
+73,Australia,India to Abroad,2024,4553
+74,India,Foreign to India,2016,37434
+75,India,India to Abroad,2024,5472
+76,Italy,Foreign to India,2019,13486
+77,UAE,India to Abroad,2019,26038
+78,Japan,Foreign to India,2022,20820
+79,Germany,India to Abroad,2022,40808
+80,Thailand,India to Abroad,2016,35334
+81,Canada,Foreign to India,2017,22972
+82,Germany,India to Abroad,2020,18776
+83,Australia,Foreign to India,2023,46207
+84,Brazil,India to Abroad,2025,36446
+85,Brazil,India to Abroad,2017,17432
+86,France,India to Abroad,2023,10287
+87,China,Foreign to India,2024,13903
+88,UAE,India to Abroad,2025,41665
+89,China,Foreign to India,2019,3429
+90,Germany,Foreign to India,2019,2989
+91,USA,Foreign to India,2017,41853
+92,China,India to Abroad,2022,36254
+93,Italy,India to Abroad,2016,5031
+94,Japan,India to Abroad,2020,38275
+95,South Africa,India to Abroad,2021,8452
+96,UK,Foreign to India,2020,2714
+97,Singapore,India to Abroad,2025,16453
+98,France,Foreign to India,2023,26732
+99,Malaysia,India to Abroad,2018,10749
+100,Australia,Foreign to India,2015,11854
+101,UAE,Foreign to India,2025,48272
+102,India,Foreign to India,2017,46058
+103,France,Foreign to India,2015,30947
+104,India,India to Abroad,2022,23015
+105,Brazil,India to Abroad,2018,1650
+106,Canada,Foreign to India,2020,18358
+107,Germany,Foreign to India,2020,42140
+108,Netherlands,Foreign to India,2025,35241
+109,UAE,India to Abroad,2016,17218
+110,Australia,Foreign to India,2015,7204
+111,Malaysia,Foreign to India,2020,47845
+112,UAE,Foreign to India,2024,33616
+113,France,Foreign to India,2024,12557
+114,China,India to Abroad,2021,210
+115,Netherlands,India to Abroad,2020,28365
+116,Germany,Foreign to India,2024,20672
+117,France,Foreign to India,2023,20369
+118,Italy,Foreign to India,2021,45792
+119,Brazil,India to Abroad,2018,27654
+120,Russia,India to Abroad,2024,37396
+121,Brazil,Foreign to India,2023,126
+122,Brazil,Foreign to India,2018,28273
+123,Thailand,Foreign to India,2022,29052
+124,South Korea,India to Abroad,2023,31110
+125,Australia,India to Abroad,2019,33880
+126,Malaysia,Foreign to India,2016,49326
+127,India,Foreign to India,2018,13150
+128,Japan,India to Abroad,2015,16146
+129,Spain,India to Abroad,2022,27260
+130,Thailand,India to Abroad,2021,32499
+131,Russia,India to Abroad,2017,43095
+132,USA,India to Abroad,2021,14441
+133,Australia,Foreign to India,2015,36630
+134,India,India to Abroad,2022,8838
+135,South Korea,Foreign to India,2022,40250
+136,Netherlands,Foreign to India,2023,29323
+137,Australia,Foreign to India,2022,17086
+138,India,Foreign to India,2023,31858
+139,India,Foreign to India,2022,5177
+140,Brazil,India to Abroad,2019,22110
+141,UAE,India to Abroad,2017,9984
+142,India,Foreign to India,2017,46395
+143,Canada,India to Abroad,2021,26812
+144,UAE,Foreign to India,2021,4180
+145,Canada,Foreign to India,2021,38378
+146,USA,Foreign to India,2022,486
+147,Singapore,Foreign to India,2021,27560
+148,South Africa,India to Abroad,2022,14480
+149,China,Foreign to India,2022,2002
+150,Russia,Foreign to India,2025,44608
+151,Russia,India to Abroad,2022,8464
+152,Malaysia,India to Abroad,2021,38890
+153,Thailand,India to Abroad,2016,42223
+154,Italy,India to Abroad,2022,12009
+155,UK,Foreign to India,2021,21553
+156,Canada,Foreign to India,2020,22218
+157,Russia,Foreign to India,2021,16632
+158,Germany,Foreign to India,2015,49188
+159,South Africa,India to Abroad,2020,14794
+160,Germany,India to Abroad,2015,16305
+161,Canada,India to Abroad,2024,10086
+162,India,India to Abroad,2022,43973
+163,France,India to Abroad,2022,45940
+164,China,Foreign to India,2017,39807
+165,Malaysia,India to Abroad,2017,20484
+166,France,India to Abroad,2019,37835
+167,Russia,Foreign to India,2018,5080
+168,Thailand,India to Abroad,2016,45791
+169,Brazil,India to Abroad,2024,2791
+170,Singapore,Foreign to India,2025,24385
+171,Germany,Foreign to India,2015,27628
+172,Spain,India to Abroad,2021,23836
+173,South Korea,India to Abroad,2021,11643
+174,Netherlands,Foreign to India,2024,35369
+175,Spain,Foreign to India,2021,48008
+176,Thailand,Foreign to India,2020,16188
+177,Germany,Foreign to India,2022,16081
+178,South Korea,Foreign to India,2020,1980
+179,Spain,Foreign to India,2017,32052
+180,Canada,Foreign to India,2019,22404
+181,China,Foreign to India,2023,765
+182,Netherlands,India to Abroad,2016,15917
+183,Italy,Foreign to India,2023,49787
+184,India,Foreign to India,2025,46751
+185,Spain,Foreign to India,2015,6198
+186,Brazil,India to Abroad,2021,45436
+187,India,Foreign to India,2025,38212
+188,Singapore,Foreign to India,2023,34894
+189,Singapore,Foreign to India,2023,21778
+190,Singapore,Foreign to India,2019,20194
+191,China,India to Abroad,2016,47370
+192,Canada,Foreign to India,2016,48785
+193,South Africa,India to Abroad,2018,14280
+194,Spain,Foreign to India,2024,49920
+195,Netherlands,Foreign to India,2016,12821
+196,Brazil,India to Abroad,2020,11859
+197,Brazil,India to Abroad,2023,8395
+198,China,India to Abroad,2015,36364
+199,Brazil,India to Abroad,2025,49434
+200,Spain,India to Abroad,2015,37721
+201,Brazil,Foreign to India,2022,28966
+202,UAE,India to Abroad,2015,16646
+203,Spain,India to Abroad,2016,26360
+204,Spain,India to Abroad,2024,41351
+205,UK,India to Abroad,2017,36986
+206,Brazil,India to Abroad,2018,7862
+207,South Africa,Foreign to India,2024,39167
+208,Malaysia,India to Abroad,2023,25028
+209,South Korea,Foreign to India,2019,38669
+210,Italy,Foreign to India,2024,40799
+211,UK,India to Abroad,2018,41093
+212,Canada,Foreign to India,2025,5420
+213,Australia,India to Abroad,2017,36275
+214,Germany,India to Abroad,2015,26872
+215,South Korea,Foreign to India,2019,2239
+216,India,Foreign to India,2019,46170
+217,South Korea,India to Abroad,2025,15397
+218,China,India to Abroad,2021,7621
+219,South Africa,India to Abroad,2025,9864
+220,China,India to Abroad,2016,4008
+221,Australia,Foreign to India,2024,49183
+222,Thailand,Foreign to India,2022,8249
+223,South Korea,Foreign to India,2021,17941
+224,Netherlands,Foreign to India,2022,5371
+225,Malaysia,India to Abroad,2021,48238
+226,UAE,Foreign to India,2015,6085
+227,India,India to Abroad,2025,17762
+228,Thailand,India to Abroad,2017,30934
+229,Netherlands,Foreign to India,2019,11994
+230,Thailand,Foreign to India,2025,32325
+231,Germany,Foreign to India,2020,26861
+232,UAE,Foreign to India,2025,6955
+233,Australia,Foreign to India,2021,45560
+234,Spain,Foreign to India,2025,26344
+235,South Africa,India to Abroad,2022,5871
+236,UAE,Foreign to India,2020,7697
+237,Russia,India to Abroad,2025,35659
+238,South Korea,Foreign to India,2015,12393
+239,Netherlands,Foreign to India,2024,49674
+240,Spain,Foreign to India,2015,13440
+241,China,India to Abroad,2019,28812
+242,Spain,India to Abroad,2015,41389
+243,Malaysia,India to Abroad,2017,20465
+244,South Africa,India to Abroad,2023,26838
+245,Germany,India to Abroad,2016,30341
+246,France,India to Abroad,2022,47063
+247,Brazil,Foreign to India,2021,31721
+248,Spain,India to Abroad,2022,36227
+249,Japan,Foreign to India,2018,39380
+250,Netherlands,India to Abroad,2016,18204
+251,Italy,Foreign to India,2023,17609
+252,USA,Foreign to India,2019,38565
+253,Thailand,Foreign to India,2017,29364
+254,South Africa,Foreign to India,2020,21886
+255,South Africa,Foreign to India,2022,21188
+256,Canada,India to Abroad,2024,25198
+257,India,Foreign to India,2015,20952
+258,Spain,Foreign to India,2021,43595
+259,Japan,Foreign to India,2015,8373
+260,Netherlands,Foreign to India,2016,28955
+261,France,Foreign to India,2015,47446
+262,Japan,Foreign to India,2025,10216
+263,Germany,Foreign to India,2019,22287
+264,Malaysia,Foreign to India,2025,5363
+265,UAE,Foreign to India,2020,41177
+266,Spain,India to Abroad,2024,4584
+267,India,Foreign to India,2018,49040
+268,Germany,Foreign to India,2016,49931
+269,France,Foreign to India,2017,45582
+270,Brazil,India to Abroad,2015,21358
+271,UK,Foreign to India,2020,24665
+272,Italy,India to Abroad,2018,34910
+273,Italy,India to Abroad,2017,11573
+274,Germany,Foreign to India,2024,44869
+275,India,Foreign to India,2024,9479
+276,India,Foreign to India,2025,16744
+277,South Korea,Foreign to India,2025,715
+278,South Korea,Foreign to India,2025,35921
+279,Australia,India to Abroad,2022,22746
+280,Thailand,Foreign to India,2025,27907
+281,China,Foreign to India,2019,13155
+282,Russia,Foreign to India,2016,15645
+283,Russia,Foreign to India,2024,19490
+284,Brazil,India to Abroad,2025,26039
+285,China,India to Abroad,2024,45044
+286,UK,Foreign to India,2019,15181
+287,Malaysia,Foreign to India,2018,41821
+288,Canada,Foreign to India,2025,49617
+289,Japan,India to Abroad,2025,42458
+290,UK,Foreign to India,2022,2286
+291,Thailand,Foreign to India,2017,6006
+292,Brazil,Foreign to India,2021,11610
+293,Canada,India to Abroad,2023,24076
+294,Netherlands,Foreign to India,2017,16940
+295,Spain,Foreign to India,2020,7647
+296,South Korea,India to Abroad,2017,49524
+297,India,Foreign to India,2023,24071
+298,Germany,Foreign to India,2015,17431
+299,South Africa,India to Abroad,2022,24255
+300,China,Foreign to India,2025,24444
+301,France,India to Abroad,2022,1740
+302,Malaysia,Foreign to India,2024,14607
+303,Germany,Foreign to India,2019,42648
+304,Italy,India to Abroad,2017,3071
+305,UK,Foreign to India,2022,7710
+306,France,India to Abroad,2023,8990
+307,Russia,Foreign to India,2020,44040
+308,South Africa,Foreign to India,2024,48745
+309,Japan,Foreign to India,2025,6589
+310,Spain,Foreign to India,2019,2244
+311,Singapore,India to Abroad,2022,29243
+312,India,Foreign to India,2016,45036
+313,Singapore,Foreign to India,2015,26192
+314,China,India to Abroad,2016,29900
+315,Germany,India to Abroad,2025,42009
+316,Malaysia,India to Abroad,2015,21956
+317,India,India to Abroad,2024,13548
+318,Germany,India to Abroad,2024,14252
+319,India,Foreign to India,2017,39158
+320,USA,Foreign to India,2017,8619
+321,South Africa,Foreign to India,2017,7304
+322,USA,India to Abroad,2015,23577
+323,India,Foreign to India,2015,11519
+324,China,India to Abroad,2017,48709
+325,Italy,India to Abroad,2016,31311
+326,South Korea,Foreign to India,2023,39006
+327,France,Foreign to India,2023,14619
+328,Malaysia,India to Abroad,2025,34273
+329,Brazil,Foreign to India,2025,2141
+330,UK,Foreign to India,2021,28036
+331,France,Foreign to India,2022,4916
+332,Germany,Foreign to India,2024,9821
+333,Germany,India to Abroad,2019,41015
+334,Thailand,Foreign to India,2021,39250
+335,Netherlands,Foreign to India,2022,33231
+336,Malaysia,Foreign to India,2016,46091
+337,France,India to Abroad,2021,29693
+338,India,Foreign to India,2020,29820
+339,Russia,Foreign to India,2016,20583
+340,Italy,Foreign to India,2025,16804
+341,Singapore,India to Abroad,2025,31181
+342,Germany,India to Abroad,2016,6209
+343,Italy,India to Abroad,2020,8627
+344,South Africa,India to Abroad,2024,36904
+345,South Africa,Foreign to India,2025,8110
+346,Italy,Foreign to India,2025,49270
+347,Italy,India to Abroad,2019,39448
+348,Brazil,Foreign to India,2016,37974
+349,Netherlands,India to Abroad,2017,43139
+350,Spain,India to Abroad,2016,23045
+351,South Africa,Foreign to India,2016,18356
+352,Thailand,India to Abroad,2021,36863
+353,Malaysia,India to Abroad,2024,43211
+354,China,India to Abroad,2017,18009
+355,Brazil,Foreign to India,2020,500
+356,Australia,India to Abroad,2024,43179
+357,Russia,India to Abroad,2017,48660
+358,USA,India to Abroad,2023,14198
+359,Russia,Foreign to India,2022,22440
+360,Australia,Foreign to India,2019,47390
+361,UAE,India to Abroad,2015,10296
+362,Australia,India to Abroad,2025,5446
+363,China,Foreign to India,2025,27888
+364,Spain,Foreign to India,2021,18002
+365,Canada,India to Abroad,2020,28274
+366,France,Foreign to India,2025,44565
+367,Thailand,Foreign to India,2023,43821
+368,Brazil,India to Abroad,2018,26003
+369,Malaysia,India to Abroad,2015,13497
+370,Brazil,India to Abroad,2017,16845
+371,Brazil,Foreign to India,2016,606
+372,Spain,Foreign to India,2017,8566
+373,Russia,India to Abroad,2023,36716
+374,Singapore,India to Abroad,2021,48730
+375,UK,Foreign to India,2015,30230
+376,Germany,Foreign to India,2024,28233
+377,Thailand,Foreign to India,2025,27473
+378,Brazil,India to Abroad,2021,1466
+379,UAE,India to Abroad,2024,30252
+380,Singapore,India to Abroad,2021,7037
+381,India,Foreign to India,2024,26343
+382,Netherlands,India to Abroad,2021,20434
+383,UAE,India to Abroad,2020,11118
+384,Germany,India to Abroad,2023,33520
+385,Canada,Foreign to India,2020,47769
+386,Japan,India to Abroad,2016,9697
+387,China,India to Abroad,2017,39578
+388,Japan,India to Abroad,2017,41253
+389,Spain,Foreign to India,2024,49899
+390,Thailand,Foreign to India,2025,37094
+391,Malaysia,Foreign to India,2025,20818
+392,Japan,Foreign to India,2016,30831
+393,South Korea,Foreign to India,2019,38859
+394,UK,Foreign to India,2023,4962
+395,Brazil,Foreign to India,2022,2564
+396,UK,Foreign to India,2019,5128
+397,Germany,Foreign to India,2022,38132
+398,South Africa,India to Abroad,2022,37564
+399,Canada,Foreign to India,2024,31270
+400,Netherlands,India to Abroad,2015,29625
+401,France,Foreign to India,2016,33166
+402,Australia,India to Abroad,2018,46474
+403,South Korea,Foreign to India,2023,34358
+404,Malaysia,India to Abroad,2020,24535
+405,Brazil,Foreign to India,2021,22275
+406,Malaysia,India to Abroad,2025,42521
+407,UAE,India to Abroad,2020,6293
+408,South Africa,Foreign to India,2019,16614
+409,Malaysia,India to Abroad,2020,5441
+410,Thailand,India to Abroad,2020,20431
+411,Russia,India to Abroad,2024,46554
+412,Germany,Foreign to India,2023,24786
+413,UAE,India to Abroad,2025,46160
+414,Netherlands,India to Abroad,2025,44039
+415,Italy,Foreign to India,2015,23863
+416,Brazil,India to Abroad,2018,22495
+417,Spain,India to Abroad,2018,9115
+418,Japan,India to Abroad,2019,6728
+419,Netherlands,India to Abroad,2025,22170
+420,Malaysia,India to Abroad,2024,24788
+421,Japan,India to Abroad,2017,45506
+422,Malaysia,India to Abroad,2022,2963
+423,Italy,Foreign to India,2025,47258
+424,India,Foreign to India,2024,18773
+425,South Korea,India to Abroad,2023,15774
+426,Brazil,Foreign to India,2018,24206
+427,Thailand,Foreign to India,2022,18566
+428,Russia,Foreign to India,2017,13187
+429,Malaysia,India to Abroad,2019,3519
+430,Spain,Foreign to India,2023,6823
+431,Netherlands,India to Abroad,2019,5596
+432,Australia,Foreign to India,2022,33743
+433,Japan,Foreign to India,2016,14651
+434,South Korea,Foreign to India,2015,27290
+435,UK,Foreign to India,2023,24607
+436,India,Foreign to India,2016,24670
+437,India,India to Abroad,2020,6593
+438,UAE,India to Abroad,2017,2610
+439,Brazil,Foreign to India,2017,49831
+440,Spain,Foreign to India,2024,444
+441,Germany,India to Abroad,2019,14233
+442,Japan,Foreign to India,2016,18981
+443,India,Foreign to India,2016,3229
+444,India,Foreign to India,2025,40916
+445,South Korea,India to Abroad,2016,32856
+446,Malaysia,India to Abroad,2025,33875
+447,Thailand,India to Abroad,2017,19188
+448,Italy,India to Abroad,2024,23222
+449,India,Foreign to India,2017,43640
+450,Germany,Foreign to India,2016,34575
+451,South Africa,India to Abroad,2021,30910
+452,UK,Foreign to India,2020,16723
+453,USA,Foreign to India,2016,22696
+454,India,India to Abroad,2024,48281
+455,UAE,India to Abroad,2015,23188
+456,South Africa,Foreign to India,2025,11574
+457,South Korea,Foreign to India,2025,12045
+458,Japan,India to Abroad,2022,2523
+459,Brazil,India to Abroad,2015,13172
+460,UK,Foreign to India,2019,33876
+461,Russia,Foreign to India,2019,2499
+462,Canada,Foreign to India,2020,3232
+463,UAE,Foreign to India,2016,24218
+464,Italy,Foreign to India,2022,25439
+465,UAE,India to Abroad,2022,45455
+466,Spain,Foreign to India,2023,17579
+467,Germany,Foreign to India,2016,28320
+468,Malaysia,India to Abroad,2023,19352
+469,UAE,India to Abroad,2016,21590
+470,Brazil,Foreign to India,2022,39593
+471,Italy,India to Abroad,2022,23138
+472,South Korea,India to Abroad,2020,40394
+473,Italy,Foreign to India,2025,3859
+474,Germany,Foreign to India,2020,33725
+475,Australia,India to Abroad,2017,39917
+476,South Korea,India to Abroad,2017,4506
+477,India,Foreign to India,2020,25190
+478,Thailand,India to Abroad,2024,10155
+479,South Korea,Foreign to India,2020,29194
+480,Germany,India to Abroad,2023,24148
+481,Russia,Foreign to India,2025,18364
+482,India,India to Abroad,2015,48313
+483,Australia,Foreign to India,2023,25461
+484,South Africa,India to Abroad,2019,17158
+485,South Korea,India to Abroad,2024,18815
+486,Spain,India to Abroad,2016,8995
+487,Germany,Foreign to India,2017,46851
+488,South Korea,India to Abroad,2025,21044
+489,Singapore,India to Abroad,2023,35631
+490,Brazil,Foreign to India,2017,46749
+491,Australia,Foreign to India,2023,14795
+492,France,India to Abroad,2017,15614
+493,Spain,India to Abroad,2020,36408
+494,Thailand,Foreign to India,2022,36252
+495,Japan,India to Abroad,2016,20369
+496,Russia,Foreign to India,2023,27021
+497,Italy,India to Abroad,2017,20876
+498,Germany,Foreign to India,2022,44671
+499,Netherlands,Foreign to India,2017,36230
+500,Thailand,India to Abroad,2017,28452
+501,Netherlands,India to Abroad,2016,34054
+502,Japan,Foreign to India,2017,10714
+503,UAE,India to Abroad,2020,34106
+504,Brazil,India to Abroad,2019,12964
+505,South Africa,Foreign to India,2017,41061
+506,Brazil,India to Abroad,2023,42107
+507,Australia,India to Abroad,2017,43270
+508,Malaysia,Foreign to India,2024,2799
+509,USA,India to Abroad,2015,42138
+510,Thailand,Foreign to India,2025,13915
+511,Thailand,Foreign to India,2024,41976
+512,USA,Foreign to India,2025,35854
+513,Brazil,Foreign to India,2022,16148
+514,Russia,Foreign to India,2022,4882
+515,UK,India to Abroad,2022,27338
+516,Spain,Foreign to India,2018,22394
+517,Malaysia,India to Abroad,2020,47178
+518,UAE,Foreign to India,2021,8669
+519,Singapore,India to Abroad,2020,15942
+520,South Korea,India to Abroad,2019,29564
+521,India,India to Abroad,2016,3416
+522,Brazil,Foreign to India,2024,27502
+523,India,India to Abroad,2020,37959
+524,UAE,India to Abroad,2017,32754
+525,Netherlands,Foreign to India,2022,20320
+526,Spain,India to Abroad,2016,25871
+527,Netherlands,Foreign to India,2018,14199
+528,Thailand,Foreign to India,2015,3412
+529,Brazil,Foreign to India,2024,42977
+530,Spain,Foreign to India,2023,635
+531,France,Foreign to India,2017,17432
+532,Singapore,Foreign to India,2020,3065
+533,Russia,India to Abroad,2024,36919
+534,Canada,Foreign to India,2023,19013
+535,Germany,Foreign to India,2023,29614
+536,South Africa,Foreign to India,2024,44690
+537,Malaysia,India to Abroad,2017,6436
+538,Russia,Foreign to India,2020,36658
+539,Singapore,India to Abroad,2018,39583
+540,Netherlands,Foreign to India,2023,2738
+541,UK,India to Abroad,2017,46865
+542,UAE,Foreign to India,2023,30049
+543,Japan,India to Abroad,2020,40278
+544,UAE,India to Abroad,2021,40502
+545,Brazil,Foreign to India,2023,33504
+546,South Africa,Foreign to India,2024,19747
+547,Spain,India to Abroad,2020,21808
+548,France,Foreign to India,2024,20263
+549,USA,Foreign to India,2019,43064
+550,Thailand,India to Abroad,2015,38341
+551,Spain,India to Abroad,2023,41323
+552,Malaysia,Foreign to India,2017,44712
+553,India,India to Abroad,2024,46009
+554,France,India to Abroad,2015,29003
+555,UAE,Foreign to India,2017,27163
+556,Canada,Foreign to India,2023,40173
+557,Spain,India to Abroad,2017,34092
+558,Canada,Foreign to India,2025,31450
+559,Netherlands,Foreign to India,2020,11449
+560,South Korea,Foreign to India,2023,23318
+561,China,Foreign to India,2018,16255
+562,China,Foreign to India,2018,19604
+563,Brazil,India to Abroad,2022,20877
+564,Spain,Foreign to India,2023,47394
+565,China,Foreign to India,2016,37683
+566,South Africa,Foreign to India,2021,22718
+567,Japan,Foreign to India,2015,18950
+568,Germany,Foreign to India,2022,43089
+569,China,Foreign to India,2018,13342
+570,South Africa,Foreign to India,2023,45724
+571,China,India to Abroad,2016,40449
+572,Thailand,India to Abroad,2018,3426
+573,Netherlands,India to Abroad,2025,15359
+574,UK,India to Abroad,2021,21746
+575,Spain,India to Abroad,2025,9109
+576,USA,India to Abroad,2021,42887
+577,Spain,Foreign to India,2025,13171
+578,Brazil,Foreign to India,2019,42429
+579,UK,India to Abroad,2025,37726
+580,India,India to Abroad,2017,27486
+581,Australia,India to Abroad,2021,32565
+582,Australia,Foreign to India,2015,707
+583,Brazil,India to Abroad,2020,18749
+584,South Korea,Foreign to India,2017,33144
+585,South Korea,Foreign to India,2018,7482
+586,UAE,India to Abroad,2022,42586
+587,China,India to Abroad,2015,48374
+588,UAE,Foreign to India,2024,44297
+589,Canada,India to Abroad,2024,41959
+590,Russia,Foreign to India,2023,21591
+591,Germany,Foreign to India,2025,6351
+592,Australia,India to Abroad,2022,21307
+593,India,India to Abroad,2019,25237
+594,India,Foreign to India,2019,21702
+595,Brazil,India to Abroad,2019,42939
+596,Singapore,India to Abroad,2015,43864
+597,France,Foreign to India,2019,10567
+598,Russia,Foreign to India,2016,41958
+599,Brazil,Foreign to India,2024,14573
+600,India,India to Abroad,2022,10139
+601,South Korea,Foreign to India,2021,46102
+602,South Africa,Foreign to India,2023,43622
+603,Canada,India to Abroad,2025,49562
+604,Malaysia,India to Abroad,2023,29378
+605,Netherlands,Foreign to India,2016,37073
+606,France,India to Abroad,2023,33227
+607,Canada,India to Abroad,2017,21603
+608,Netherlands,Foreign to India,2016,44683
+609,Canada,Foreign to India,2016,33547
+610,South Korea,India to Abroad,2022,8747
+611,Netherlands,Foreign to India,2022,37056
+612,UK,Foreign to India,2025,20296
+613,USA,Foreign to India,2019,297
+614,Canada,India to Abroad,2015,27867
+615,Singapore,India to Abroad,2023,4048
+616,Germany,Foreign to India,2015,18914
+617,Italy,India to Abroad,2017,42142
+618,Italy,Foreign to India,2021,29495
+619,Russia,Foreign to India,2016,44843
+620,South Africa,India to Abroad,2025,22891
+621,France,India to Abroad,2023,25859
+622,Netherlands,India to Abroad,2018,327
+623,USA,Foreign to India,2022,44238
+624,South Africa,Foreign to India,2023,24956
+625,India,India to Abroad,2022,22785
+626,Japan,Foreign to India,2018,47615
+627,France,India to Abroad,2025,27575
+628,Malaysia,India to Abroad,2018,13605
+629,Germany,India to Abroad,2024,2300
+630,South Korea,India to Abroad,2018,48632
+631,UK,Foreign to India,2022,15457
+632,South Africa,India to Abroad,2015,9283
+633,Netherlands,Foreign to India,2018,48040
+634,Thailand,Foreign to India,2024,39285
+635,UAE,India to Abroad,2019,9488
+636,Netherlands,India to Abroad,2021,19793
+637,China,India to Abroad,2023,38875
+638,Australia,Foreign to India,2023,32581
+639,UK,Foreign to India,2025,44097
+640,Russia,Foreign to India,2021,26855
+641,Japan,Foreign to India,2021,12150
+642,South Africa,Foreign to India,2018,14868
+643,Brazil,India to Abroad,2022,3876
+644,South Africa,Foreign to India,2021,36622
+645,Netherlands,India to Abroad,2021,16015
+646,China,India to Abroad,2020,42482
+647,Germany,Foreign to India,2020,6159
+648,South Africa,India to Abroad,2015,17693
+649,Russia,India to Abroad,2016,12431
+650,Thailand,India to Abroad,2022,13789
+651,UAE,Foreign to India,2015,13981
+652,Canada,India to Abroad,2022,15998
+653,Malaysia,India to Abroad,2021,15784
+654,South Africa,Foreign to India,2019,25047
+655,South Korea,Foreign to India,2019,17241
+656,Singapore,Foreign to India,2022,6562
+657,Spain,Foreign to India,2018,24394
+658,UAE,Foreign to India,2015,36965
+659,India,India to Abroad,2015,17190
+660,South Africa,Foreign to India,2019,10088
+661,Canada,Foreign to India,2018,24993
+662,Thailand,India to Abroad,2022,36186
+663,UAE,Foreign to India,2022,47519
+664,Spain,Foreign to India,2017,48122
+665,Singapore,India to Abroad,2017,47306
+666,South Africa,Foreign to India,2017,35629
+667,UK,India to Abroad,2016,43892
+668,UK,India to Abroad,2021,9110
+669,India,India to Abroad,2017,699
+670,Canada,Foreign to India,2020,4061
+671,Malaysia,Foreign to India,2025,32072
+672,USA,India to Abroad,2023,36252
+673,Italy,India to Abroad,2015,34795
+674,China,Foreign to India,2015,33013
+675,Italy,India to Abroad,2016,6412
+676,Netherlands,India to Abroad,2018,12678
+677,Malaysia,Foreign to India,2020,17619
+678,Russia,India to Abroad,2020,26709
+679,South Korea,India to Abroad,2018,19759
+680,Germany,India to Abroad,2016,26660
+681,Russia,Foreign to India,2023,31295
+682,UK,India to Abroad,2017,5518
+683,Spain,Foreign to India,2025,21810
+684,Thailand,India to Abroad,2023,2888
+685,India,India to Abroad,2024,31262
+686,China,India to Abroad,2016,44954
+687,China,India to Abroad,2017,20710
+688,USA,India to Abroad,2024,9549
+689,Russia,India to Abroad,2019,10746
+690,Thailand,India to Abroad,2024,25603
+691,South Africa,Foreign to India,2021,49619
+692,Japan,India to Abroad,2023,48954
+693,Singapore,India to Abroad,2016,28745
+694,India,India to Abroad,2020,39760
+695,Malaysia,Foreign to India,2020,2041
+696,China,Foreign to India,2022,15051
+697,Singapore,Foreign to India,2021,12272
+698,Thailand,Foreign to India,2016,40641
+699,Brazil,India to Abroad,2016,5476
+700,China,India to Abroad,2021,46740
+701,Japan,Foreign to India,2020,23738
+702,France,India to Abroad,2015,20302
+703,South Korea,Foreign to India,2019,6799
+704,Japan,India to Abroad,2017,28344
+705,South Korea,Foreign to India,2016,1821
+706,Germany,Foreign to India,2023,6199
+707,Malaysia,Foreign to India,2021,908
+708,Brazil,Foreign to India,2021,5650
+709,South Africa,India to Abroad,2024,34251
+710,Australia,Foreign to India,2017,9199
+711,China,Foreign to India,2019,32417
+712,Japan,India to Abroad,2017,28586
+713,China,Foreign to India,2019,31834
+714,Germany,Foreign to India,2019,16260
+715,Spain,India to Abroad,2022,7110
+716,Japan,Foreign to India,2015,26032
+717,UAE,Foreign to India,2020,28950
+718,UAE,Foreign to India,2025,39054
+719,Japan,Foreign to India,2020,39632
+720,Canada,Foreign to India,2020,11741
+721,Russia,Foreign to India,2019,48260
+722,Spain,India to Abroad,2020,24745
+723,China,Foreign to India,2020,7563
+724,Thailand,India to Abroad,2024,35858
+725,Australia,India to Abroad,2022,46523
+726,Canada,Foreign to India,2019,45505
+727,Germany,Foreign to India,2025,32822
+728,Japan,Foreign to India,2018,16659
+729,Japan,Foreign to India,2021,4947
+730,South Korea,Foreign to India,2024,26367
+731,South Africa,Foreign to India,2023,2509
+732,Singapore,India to Abroad,2016,16368
+733,Singapore,India to Abroad,2025,40252
+734,UK,Foreign to India,2020,28310
+735,France,India to Abroad,2016,17056
+736,India,India to Abroad,2022,24618
+737,Russia,Foreign to India,2025,38673
+738,Netherlands,India to Abroad,2020,1709
+739,Spain,India to Abroad,2019,27361
+740,Germany,India to Abroad,2017,22928
+741,Brazil,Foreign to India,2022,13657
+742,Netherlands,Foreign to India,2020,31305
+743,France,Foreign to India,2022,21000
+744,Germany,Foreign to India,2015,46681
+745,France,India to Abroad,2020,42565
+746,France,India to Abroad,2018,33916
+747,Australia,India to Abroad,2020,36790
+748,Italy,Foreign to India,2018,26645
+749,Australia,India to Abroad,2025,43177
+750,Italy,Foreign to India,2015,48425
+751,Malaysia,India to Abroad,2022,38910
+752,Italy,Foreign to India,2015,46285
+753,Canada,India to Abroad,2019,49404
+754,Germany,India to Abroad,2023,12352
+755,Singapore,Foreign to India,2018,30086
+756,France,Foreign to India,2025,32178
+757,Netherlands,Foreign to India,2024,25569
+758,Malaysia,Foreign to India,2024,7586
+759,Singapore,Foreign to India,2022,40559
+760,Australia,Foreign to India,2024,38777
+761,Germany,India to Abroad,2020,7824
+762,India,Foreign to India,2016,12096
+763,Singapore,India to Abroad,2023,25558
+764,Italy,India to Abroad,2024,25246
+765,Italy,India to Abroad,2022,41748
+766,South Africa,India to Abroad,2023,11035
+767,Spain,Foreign to India,2017,12361
+768,UAE,Foreign to India,2024,3613
+769,Singapore,India to Abroad,2022,9047
+770,Canada,Foreign to India,2023,33224
+771,Spain,Foreign to India,2025,32325
+772,Italy,Foreign to India,2022,11061
+773,Germany,India to Abroad,2018,19242
+774,UK,Foreign to India,2018,35332
+775,Brazil,India to Abroad,2022,37170
+776,Spain,India to Abroad,2024,7584
+777,China,Foreign to India,2023,49696
+778,UK,Foreign to India,2023,14422
+779,Italy,India to Abroad,2025,49340
+780,India,Foreign to India,2015,29573
+781,China,Foreign to India,2016,28874
+782,France,India to Abroad,2018,48440
+783,Thailand,Foreign to India,2024,41569
+784,Italy,India to Abroad,2024,9224
+785,Canada,India to Abroad,2015,37460
+786,Singapore,Foreign to India,2024,35408
+787,Australia,Foreign to India,2019,19061
+788,Thailand,Foreign to India,2023,44618
+789,France,India to Abroad,2021,3985
+790,China,India to Abroad,2017,16462
+791,Japan,Foreign to India,2018,44417
+792,Russia,Foreign to India,2017,37942
+793,China,Foreign to India,2021,29721
+794,Germany,India to Abroad,2021,33891
+795,China,Foreign to India,2022,32084
+796,UAE,India to Abroad,2016,48002
+797,South Korea,Foreign to India,2016,35124
+798,Russia,India to Abroad,2021,13983
+799,Spain,Foreign to India,2020,18685
+800,UAE,India to Abroad,2024,31907
+801,UAE,India to Abroad,2015,6625
+802,South Korea,India to Abroad,2016,10453
+803,South Korea,Foreign to India,2015,28136
+804,Canada,India to Abroad,2025,19883
+805,Australia,Foreign to India,2016,42999
+806,Singapore,Foreign to India,2016,24469
+807,Australia,India to Abroad,2021,41099
+808,Brazil,India to Abroad,2021,43057
+809,Germany,India to Abroad,2015,14086
+810,Spain,India to Abroad,2017,39007
+811,India,Foreign to India,2015,628
+812,UAE,India to Abroad,2021,45584
+813,Japan,Foreign to India,2016,15104
+814,Russia,India to Abroad,2016,6863
+815,UAE,Foreign to India,2019,9086
+816,Russia,India to Abroad,2025,44476
+817,Japan,India to Abroad,2023,37015
+818,USA,India to Abroad,2022,23115
+819,Canada,India to Abroad,2021,40475
+820,South Korea,India to Abroad,2016,6684
+821,Japan,India to Abroad,2024,47941
+822,Russia,Foreign to India,2021,20711
+823,Japan,India to Abroad,2019,42345
+824,Germany,India to Abroad,2023,39487
+825,Malaysia,Foreign to India,2015,43249
+826,Brazil,India to Abroad,2023,39875
+827,Netherlands,India to Abroad,2021,19468
+828,UK,India to Abroad,2022,25389
+829,France,India to Abroad,2022,41917
+830,Malaysia,India to Abroad,2023,890
+831,Singapore,Foreign to India,2017,25451
+832,Thailand,Foreign to India,2020,35906
+833,Australia,Foreign to India,2016,1193
+834,Thailand,India to Abroad,2015,17282
+835,Canada,India to Abroad,2015,26181
+836,Netherlands,Foreign to India,2025,46802
+837,Netherlands,Foreign to India,2021,46093
+838,Russia,India to Abroad,2025,35264
+839,South Africa,India to Abroad,2019,5578
+840,Brazil,India to Abroad,2023,13416
+841,Japan,Foreign to India,2021,38532
+842,Germany,Foreign to India,2021,47938
+843,India,India to Abroad,2018,5750
+844,Italy,India to Abroad,2022,40227
+845,Malaysia,India to Abroad,2019,43752
+846,Australia,India to Abroad,2015,46492
+847,Japan,India to Abroad,2017,32632
+848,Singapore,Foreign to India,2017,24470
+849,Japan,Foreign to India,2016,2023
+850,UAE,Foreign to India,2019,34431
+851,Germany,Foreign to India,2024,41225
+852,Germany,Foreign to India,2022,33574
+853,Singapore,India to Abroad,2022,37251
+854,Australia,Foreign to India,2017,16819
+855,France,India to Abroad,2018,48647
+856,Netherlands,India to Abroad,2015,905
+857,India,India to Abroad,2022,23953
+858,Russia,India to Abroad,2017,2417
+859,South Africa,Foreign to India,2018,21189
+860,India,Foreign to India,2020,17877
+861,Germany,Foreign to India,2016,33001
+862,UK,India to Abroad,2018,33901
+863,UK,Foreign to India,2016,30580
+864,Brazil,Foreign to India,2020,5761
+865,South Africa,Foreign to India,2015,24277
+866,Canada,Foreign to India,2024,20017
+867,Malaysia,India to Abroad,2022,24235
+868,Thailand,Foreign to India,2018,48102
+869,South Africa,India to Abroad,2017,517
+870,Italy,India to Abroad,2018,35590
+871,Singapore,India to Abroad,2020,195
+872,Russia,Foreign to India,2016,13547
+873,Netherlands,India to Abroad,2021,32345
+874,UK,India to Abroad,2019,6196
+875,UK,India to Abroad,2023,27170
+876,Singapore,Foreign to India,2016,38161
+877,France,India to Abroad,2025,25944
+878,Germany,India to Abroad,2021,43513
+879,Japan,India to Abroad,2019,17204
+880,UAE,Foreign to India,2020,20944
+881,South Korea,Foreign to India,2018,4994
+882,Canada,India to Abroad,2024,7241
+883,Japan,India to Abroad,2017,29562
+884,South Korea,Foreign to India,2021,8012
+885,South Africa,Foreign to India,2018,29716
+886,Brazil,Foreign to India,2019,7958
+887,Germany,India to Abroad,2025,20037
+888,Malaysia,India to Abroad,2018,21582
+889,Japan,India to Abroad,2018,23413
+890,Russia,India to Abroad,2025,19684
+891,China,India to Abroad,2015,26602
+892,South Korea,India to Abroad,2016,30380
+893,France,India to Abroad,2016,883
+894,UK,India to Abroad,2017,13084
+895,Russia,Foreign to India,2025,41407
+896,Germany,Foreign to India,2016,1528
+897,Germany,India to Abroad,2025,29160
+898,Japan,India to Abroad,2020,8129
+899,UK,Foreign to India,2015,11109
+900,Thailand,Foreign to India,2021,32614
+901,USA,Foreign to India,2025,28061
+902,Australia,Foreign to India,2018,12365
+903,China,Foreign to India,2022,9840
+904,UK,India to Abroad,2025,19440
+905,Spain,Foreign to India,2023,31493
+906,UK,India to Abroad,2019,25201
+907,Japan,Foreign to India,2018,42216
+908,Netherlands,India to Abroad,2025,35729
+909,USA,Foreign to India,2020,31536
+910,South Africa,Foreign to India,2020,37170
+911,Netherlands,Foreign to India,2021,17823
+912,Australia,India to Abroad,2020,39232
+913,India,India to Abroad,2019,3939
+914,Spain,Foreign to India,2024,15354
+915,Australia,India to Abroad,2018,43148
+916,India,Foreign to India,2023,48403
+917,UK,India to Abroad,2024,25555
+918,Singapore,India to Abroad,2017,15602
+919,Thailand,Foreign to India,2020,38868
+920,USA,Foreign to India,2024,37036
+921,Japan,India to Abroad,2022,35628
+922,Brazil,India to Abroad,2022,2587
+923,Germany,India to Abroad,2018,39530
+924,India,India to Abroad,2023,31425
+925,USA,Foreign to India,2024,13303
+926,Japan,Foreign to India,2017,21306
+927,UK,India to Abroad,2017,38544
+928,Japan,India to Abroad,2023,24013
+929,Germany,Foreign to India,2025,26025
+930,Thailand,India to Abroad,2020,19876
+931,UAE,India to Abroad,2017,48095
+932,Italy,Foreign to India,2025,20893
+933,Australia,Foreign to India,2018,43716
+934,Thailand,India to Abroad,2021,20207
+935,Brazil,India to Abroad,2017,47864
+936,USA,Foreign to India,2024,2222
+937,Australia,Foreign to India,2024,14576
+938,Thailand,India to Abroad,2022,9317
+939,UAE,India to Abroad,2018,22828
+940,UAE,India to Abroad,2025,5914
+941,UAE,Foreign to India,2015,17480
+942,Canada,India to Abroad,2016,23069
+943,China,India to Abroad,2015,3255
+944,Russia,Foreign to India,2021,11001
+945,Italy,Foreign to India,2021,23118
+946,South Africa,Foreign to India,2016,31523
+947,Thailand,India to Abroad,2017,29675
+948,Germany,India to Abroad,2019,1415
+949,UAE,Foreign to India,2016,4962
+950,UAE,India to Abroad,2021,10645
+951,Germany,India to Abroad,2020,39030
+952,Malaysia,Foreign to India,2015,28367
+953,Australia,Foreign to India,2017,3609
+954,France,Foreign to India,2018,12550
+955,Italy,Foreign to India,2025,18549
+956,Brazil,India to Abroad,2016,3352
+957,Russia,Foreign to India,2017,3672
+958,Singapore,India to Abroad,2021,5842
+959,Brazil,Foreign to India,2018,6456
+960,USA,India to Abroad,2017,41924
+961,Brazil,India to Abroad,2022,7669
+962,Brazil,Foreign to India,2022,32153
+963,China,India to Abroad,2025,35759
+964,Russia,India to Abroad,2020,25098
+965,Singapore,India to Abroad,2022,3024
+966,China,Foreign to India,2022,17362
+967,India,Foreign to India,2024,4139
+968,Japan,India to Abroad,2016,43887
+969,Singapore,Foreign to India,2024,15010
+970,South Africa,India to Abroad,2021,34347
+971,Italy,Foreign to India,2024,15543
+972,Spain,Foreign to India,2016,25973
+973,UK,India to Abroad,2016,49723
+974,South Korea,India to Abroad,2017,13986
+975,Canada,India to Abroad,2015,27846
+976,Germany,Foreign to India,2018,41205
+977,Japan,Foreign to India,2020,47751
+978,Germany,India to Abroad,2021,36561
+979,Russia,Foreign to India,2019,34158
+980,South Korea,India to Abroad,2024,38607
+981,Netherlands,Foreign to India,2016,27260
+982,Japan,India to Abroad,2024,38630
+983,Thailand,India to Abroad,2016,36976
+984,France,Foreign to India,2023,22635
+985,Italy,Foreign to India,2021,43012
+986,Spain,Foreign to India,2015,11385
+987,China,Foreign to India,2017,40617
+988,Malaysia,Foreign to India,2015,26038
+989,UAE,India to Abroad,2015,48973
+990,Spain,Foreign to India,2020,1425
+991,UAE,Foreign to India,2019,18472
+992,Spain,India to Abroad,2018,8907
+993,Brazil,Foreign to India,2020,17756
+994,Italy,India to Abroad,2018,29048
+995,Canada,Foreign to India,2022,49874
+996,Netherlands,Foreign to India,2015,33868
+997,Australia,India to Abroad,2019,46602
+998,Netherlands,Foreign to India,2017,34459
+999,Thailand,India to Abroad,2017,12732
+1000,Canada,India to Abroad,2018,2267
